@@ -149,6 +149,7 @@ plugins:
 
 # Extras
 github: [metadata]
+repository: rllabmcgill/new_website
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
