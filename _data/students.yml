@@ -1,0 +1,32 @@
+- name: Koustuv Sinha
+  image: ksinha.jpg
+  website: https://cs.mcgill.ca/~ksinha4
+  description: Natural Language Understanding, Systematicity & Logic in NLU, Dialog Systems # it could be research interests, or if alumni where you are now
+  supervised_by: Joelle Pineau
+  scholar:
+  level: phd # postdoc,phd,msc,ug,alumni
+
+- name: Prasanna Parthasarathi
+  image: prasanna.png
+  website: https://www.cs.mcgill.ca/~pparth2/
+  description: Reinforcement Learning, Dialog
+  supervised_by: Joelle Pineau
+  scholar:
+  level: phd
+
+- name: Andrei Lupu
+  image: andreilupu.jpg
+  website:
+  description: Reinforcement Learning, NLP
+  supervised_by: Doina Precup
+  scholar:
+  level: msc
+
+- name: Ali Emami
+  image: aliemami.webp
+  website: http://www.cosc.brocku.ca/~aemami/
+  description: Associate Professor, Brock University
+  scholar:
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2021

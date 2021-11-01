@@ -2,21 +2,21 @@
  * Content
  ******************************************************************************/
 
- body {
-   padding-bottom: 70px;
-   color: var(--global-text-color);
-   background-color: var(--global-bg-color);
- }
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+}
 
- body.fixed-top-nav {
-   // Add some padding for the nav-bar.
-   padding-top: 56px;
- }
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
 
- body.sticky-bottom-footer {
-   // Remove padding below footer.
-   padding-bottom: 0;
- }
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
 
 .container {
   max-width: $max-content-width;
@@ -29,15 +29,21 @@
   }
 }
 
-// TODO: redefine content layout.
+.thumb-post img {
+  object-fit: none; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  width: 100%;
+  max-height: 250px;
+  margin-bottom: 1rem;
+}
 
+// TODO: redefine content layout.
 
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
 // TODO: redefine publications layout.
-
 
 /*****************************************************************************
 * Projects

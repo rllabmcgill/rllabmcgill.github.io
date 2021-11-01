@@ -1,0 +1,6 @@
+{% if person.website %}
+<li><p><a href= "{{person.website}}" target="_blank">{{person.name}}</a>, <em>{{person.grad_degree}}, {{person.grad_year}}</em>, {{person.description}}</p></li>
+{% else %}
+<li><p><a href="#" target="_blank">{{person.name}}</a>, <em>{{person.grad_degree}}, {{person.grad_year}}</em>, {{person.description}}</p></li>
+
+{% endif %}

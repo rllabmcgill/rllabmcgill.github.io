@@ -12,37 +12,39 @@ layout: default
   </header>
 
   <article>
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
     {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+    <div class="row">
       {% if page.profile.image %}
         <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-      {% endif %}
-      {% if page.profile.address %}
-        <div class="address">
-          {{ page.profile.address }}
-        </div>
       {% endif %}
     </div>
     {% endif %}
 
-    <div class="clearfix">
-      {{ content }}
-    </div>
+    <br>
 
     {% if page.news %}
       {% include news.html %}
     {% endif %}
 
-    {% if page.selected_papers %}
-      {% include selected_papers.html %}
+    {% if page.profile.address %}
+    <div class="row">
+        <div class="address text-center">
+          {{ page.profile.address }}
+        </div>
+    </div>
     {% endif %}
 
     {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">
-        {% include social.html %}
+    <div class="social" style="padding-top:30px">
+      <div class="contact-icons row justify-content-sm-center">
+        <img class="col-sm-2 img-fluid" src="{{'/assets/img/mila-purple.png' | relative_url }}">
+        <img class="col-sm-3 img-fluid" src="{{'/assets/img/mcgill-red.svg' | relative_url }}">
       </div>
-      <div class="contact-note">{{ site.contact_note }}</div>
+      <div class="contact-note" style="padding-top:10px">{{ site.contact_note }}</div>
     </div>
     {% endif %}
   </article>

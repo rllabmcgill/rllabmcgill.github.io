@@ -1,0 +1,16 @@
+<div id = "{{person.name | replace: ' ', '-'}}" class="row col-md-6" style="padding-top: 30px;">
+<div class="col-sm-4">
+<img src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}" class="img-thumbnail float-left">
+</div>
+<div class="col-sm-8">
+{% if person.website %}
+<h5><a href= "{{person.website}}" target="_blank">{{person.name}}</a></h5>
+{% else %}
+<h5><a href="#" target="_blank">{{person.name}}</a></h5>
+{% endif %}
+<p class="text-justify">{{person.description | markdownify}}</p>
+{% if person.supervised_by %}
+<p>Supervised by: {{person.supervised_by}}</p>
+{% endif %}
+</div>
+</div>

@@ -1,11 +1,24 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /courses/
+title: courses
+description: Courses offered by the faculty of Reasoning and Learning Lab
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{% for course in site.data.courses %}
 
-Organize your courses by years, topics, or universities, however you like!
+<div id="{{course.name | replace: ' ', '' }}" class="row">
+<h4>{{course.name}}</h4>
+<div class="col-md-12">
+<p class="text-justify">{{course.description | markdownify}}</p>
+{% if course.website %}
+    <i class="fa fa-globe"></i> <a href= "{{course.website}}" target="_blank">{{course.website}}</a> <br>
+{% endif %}
+</div>
+</div>
+<hr>
+
+{% endfor %}
+
+More courses available from the Mila Faculty here: [https://mila.quebec/en/cours/](https://mila.quebec/en/cours/)

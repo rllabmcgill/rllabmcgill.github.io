@@ -1,0 +1,62 @@
+- name: Joelle Pineau
+  image: jpineau.jpg
+  website: https://cs.mcgill.ca/~jpineau
+  research: Reinforcement Learning, NLP, Dialog
+  scholar:
+  level: core
+
+- name: Doina Precup
+  image: dprecup.jpg
+  website: https://cs.mcgill.ca/~dprecup
+  research: Reinforcement Learning
+  scholar:
+  level: core
+
+- name: Jackie Chi Kit Cheung
+  image: jcheung.jpg
+  website: https://www.cs.mcgill.ca/~jcheung/
+  research: NLP, Summarization, Computational Semantics
+  scholar:
+  level: core
+
+- name: Prakash Panangaden
+  image: prakash.jpg
+  website: https://www.cs.mcgill.ca/~prakash/
+  research: Machine Learning, Quantum Information Theory, Probabilistic Systems
+  scholar:
+  level: core
+
+- name: Reihaneh Rabbany
+  image: rraba.png
+  website: https://reirab.com/
+  description: Machine Learning, Knowledge Graphs
+  scholar:
+  level: core
+
+- name: Siamak Ravanbakhsh
+  image: siamak.jpg
+  website: https://cs.mcgill.ca/~siamak/
+  description: Machine Learning, Learning on Graphs, Generative Models, Probabilistic Models
+  scholar:
+  level: core
+
+- name: Siva Reddy
+  image: sivareddy.jpg
+  website: https://sivareddy.in/
+  description: Natural language Processing, Probabilistic Models, Reasoning
+  scholar:
+  level: core
+
+- name: David Rolnick
+  image: drolnick.jpg
+  website: https://davidrolnick.com/
+  description: Machine Learning Theory, Climate Change, AI For Good
+  scholar:
+  level: core
+
+- name: Timothy J O'Donnell
+  image: tjdonnell.jpg
+  website: http://people.linguistics.mcgill.ca/~timothy.odonnell/
+  description: Natural Language Processing, Linguistics, Cognitive Science
+  scholar:
+  level: affiliate

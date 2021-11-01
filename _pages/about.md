@@ -2,23 +2,18 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://cs.mcgill.ca">School of Computer Science</a>, <a href="https://mcgill.ca">McGill University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: rl-lab-2017.jpeg
+  address: <a href="https://maps.google.ca/maps?q=McConnell+Engineering+Bldg,+Montreal,+QC&hl=en&sll=49.891235,-97.15369&sspn=38.84011,93.251953&oq=mc&t=h&hnear=McConnell+Engineering+Bldg,+Montreal,+Quebec+H3A+0E9&z=16&iwloc=A">McConnell Engineering Building</a> (Rooms MC104, MC107, MC108, MC111, MC112), 3480 University St, Montreal, Quebec, H3A 0E9
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The research in the Reasoning and Learning Lab, co-directed by Professors [Prakash Panangaden](http://www.cs.mcgill.ca/~prakash), [Doina Precup](http://www.cs.mcgill.ca/~dprecup), [Joelle Pineau](http://www.cs.mcgill.ca/~jpineau), and [Jackie Chi Kit Cheung](http://www.cs.mcgill.ca/~jcheung), is broadly concerned with the study of probabilistic systems. Current areas of interest include Markov processes, reinforcement learning and computational linguistics. The lab is a core member of the [Quebec AI Institute (Mila)](https://mila.quebec).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research is funded by generous grants from [NSERC](http://www.nserc.ca/), [FQRNT](http://www.frqnt.gouv.qc.ca/en/), and both the [Faculty of Graduate and Postdoctoral Studies](http://www.mcgill.ca/gps) and the [School of Computer Science](http://www.cs.mcgill.ca/) of [McGill University](http://www.mcgill.ca/).
