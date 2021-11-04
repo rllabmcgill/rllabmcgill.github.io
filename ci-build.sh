@@ -5,4 +5,4 @@ if [ $? -ne 0 ]; then
 fi
 mkdir build
 tar -czvf build/build.tar.gz -C _site .
-# cp ci-deploy.sh ./build
+cp ci-deploy.sh ./build
