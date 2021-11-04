@@ -22,3 +22,22 @@ jobs:
         with:
           name: build
           path: build
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build_job
+    steps:
+      - uses: actions/download-artifact@v1
+        with:
+          name: build
+      - name: "Prepare SSH key and known hosts"
+        # https://github.com/symfony/cli/issues/227#issuecomment-601680974
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan ${{ secrets.HOST }} >> ~/.ssh/known_hosts
+      - name: Run deploy script
+        run: |
+          rsync -rSlh --stats build/ ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.WEBPATH }}/tar
+          ssh -o StrictHostKeyChecking=yes ${{ secrets.USERNAME }}@${{ secrets.HOST }} 'bash -s' -- < build/ci-deploy.sh ${{ secrets.WEBPATH }}
