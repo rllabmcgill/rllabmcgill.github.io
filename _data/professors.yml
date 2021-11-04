@@ -1,28 +1,28 @@
 - name: Joelle Pineau
   image: jpineau.jpg
   website: https://cs.mcgill.ca/~jpineau
-  research: Reinforcement Learning, NLP, Dialog
+  description: Reinforcement Learning, NLP, Dialog
   scholar:
   level: core
 
 - name: Doina Precup
   image: dprecup.jpg
   website: https://cs.mcgill.ca/~dprecup
-  research: Reinforcement Learning
+  description: Reinforcement Learning, Reasoning and planning under uncertainty
   scholar:
   level: core
 
 - name: Jackie Chi Kit Cheung
   image: jcheung.jpg
   website: https://www.cs.mcgill.ca/~jcheung/
-  research: NLP, Summarization, Computational Semantics
+  description: NLP, Summarization, Computational Semantics
   scholar:
   level: core
 
 - name: Prakash Panangaden
   image: prakash.jpg
   website: https://www.cs.mcgill.ca/~prakash/
-  research: Machine Learning, Quantum Information Theory, Probabilistic Systems
+  description: Machine Learning, Quantum Information Theory, Probabilistic Systems
   scholar:
   level: core
 
