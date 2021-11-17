@@ -1,4 +1,4 @@
-### Phd
+############################################## Phd ##############################################
 
 - name: Koustuv Sinha
   image: ksinha.jpg
@@ -16,7 +16,6 @@
   scholar:
   level: phd
 
-
 - name: Martin Klissarov
   image: mklissar.png
   website: https://mklissa.github.io/
@@ -25,7 +24,6 @@
   scholar:
   level: phd 
 
-
 - name: Aishik Chakraborty
   image: default.jpg
   website: 
@@ -33,8 +31,6 @@
   supervised_by: Jackie Cheung 
   scholar: 
   level: phd 
-
-
 
 - name: Amy Zhang
   image: default.jpg
@@ -192,7 +188,7 @@
 - name: Howard Huang
   image: default.jpg
   website: 
-  description: Reinforcement learning 
+  description:  
   supervised_by: Doina Precup 
   scholar: 
   level: phd 
@@ -201,7 +197,7 @@
 - name: Hugo Sonnery
   image: default.jpg
   website: https://excitingtimes.github.io/.
-  description: Reinforcement learning 
+  description:  
   supervised_by: Siamak Ravanbakhsh 
   scholar: 
   level: phd 
@@ -277,8 +273,6 @@
   supervised_by: Doina Precup 
   scholar: 
   level: phd 
-
-
 
 
 - name: Kushal Arora
@@ -386,9 +380,7 @@
   description: Temporal credit assignment, Reinforcement Learning Theory, Deep Reinforcement Learning 
   supervised_by: Doina Precup 
   scholar: 
-  level: phd 
-
-
+  level: phd
 
 
 - name: Priyesh Vijayan
@@ -519,7 +511,11 @@
 
 
 
-### Msc
+
+
+
+
+############################################## Msc ##############################################
 
 - name: Andrei Lupu
   image: andreilupu.jpg
