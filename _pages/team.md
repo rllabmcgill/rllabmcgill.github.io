@@ -22,7 +22,7 @@ description:
 
 ## Affiliate Professors
 
-{% assign afprofs = site.data.professors | where: "level", "affiliate" %}
+{% assign afprofs = site.data.professors | where: "level", "affiliate" | sort: 'name' %}
 
 <div class="row">
 
@@ -37,7 +37,7 @@ description:
 
 ## Postdoctoral Fellows
 
-{% assign postdocs = site.data.students | where: "level", "postdoc" %}
+{% assign postdocs = site.data.students | where: "level", "postdoc" | sort: 'name' %}
 
 <div class="row">
 
@@ -52,7 +52,7 @@ description:
 
 ## Ph.D. Students
 
-{% assign phds = site.data.students | where: "level", "phd" %}
+{% assign phds = site.data.students | where: "level", "phd" | sort: 'name' %}
 
 <div class="row">
 
@@ -67,7 +67,7 @@ description:
 
 ## M.Sc. Students
 
-{% assign mscs = site.data.students | where: "level", "msc" %}
+{% assign mscs = site.data.students | where: "level", "msc" | sort: 'name' %}
 
 <div class="row">
 
