@@ -1,3 +1,43 @@
+############################################## postdoc ##############################################
+
+- name: Di Wu
+  image: default.jpg
+  website: http://www.darcywudi.com/tech
+  description: Reinforcement Learning, Deep Learning, Transfer Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: postdoc 
+
+
+- name: Samira Ebrahimi Kahou
+  image: default.jpg
+  website: https://saebrahimi.github.io
+  description:  
+  supervised_by: Deep learning, Multimodal learning, Reasoning, RL, Metalearning 
+  scholar: 
+  level: postdoc 
+
+
+- name: Susan Amin
+  image: default.jpg
+  website: 
+  description: reinforcement learning, exploration, statistical physics, polymer physics 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: postdoc 
+
+
+- name: Vincent François-Lavet
+  image: default.jpg
+  website: http://vincent.francois-l.be
+  description: Joelle Pineau, Doina Precup 
+  supervised_by:  
+  scholar: 
+  level: postdoc 
+
+
+
+
 ############################################## Phd ##############################################
 
 - name: Koustuv Sinha
