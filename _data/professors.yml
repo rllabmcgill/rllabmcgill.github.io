@@ -60,3 +60,19 @@
   description: Natural Language Processing, Linguistics, Cognitive Science
   scholar:
   level: affiliate
+
+
+- name: Nicolas Le Roux
+  image: nleroux.jpg
+  website: http://nicolas.le-roux.name/
+  description: Machine Learning, Neural Networks, Optimization and Large-Scale Learning 
+  scholar:
+  level: affiliate
+
+
+- name: Marc G. Bellemare
+  image: mbellemare.jpg
+  website: http://www.marcgbellemare.info/
+  description: Reinforcement Learning, Representation Learning, Exploration
+  scholar:
+  level: affiliate
