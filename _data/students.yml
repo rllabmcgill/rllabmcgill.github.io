@@ -1,5 +1,4 @@
 ############################################## postdoc ##############################################
-
 - name: Di Wu
   image: default.jpg
   website: http://www.darcywudi.com/tech
@@ -12,8 +11,8 @@
 - name: Samira Ebrahimi Kahou
   image: default.jpg
   website: https://saebrahimi.github.io
-  description:  
-  supervised_by: Deep learning, Multimodal learning, Reasoning, RL, Metalearning 
+  description: Deep learning, Multimodal learning, Reasoning, RL, Metalearning 
+  supervised_by:  
   scholar: 
   level: postdoc 
 
@@ -30,11 +29,10 @@
 - name: Vincent François-Lavet
   image: default.jpg
   website: http://vincent.francois-l.be
-  description: Joelle Pineau, Doina Precup 
-  supervised_by:  
+  description:  
+  supervised_by: Joelle Pineau, Doina Precup 
   scholar: 
   level: postdoc 
-
 
 
 
