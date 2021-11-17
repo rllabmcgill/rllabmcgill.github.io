@@ -1,3 +1,5 @@
+### Phd
+
 - name: Koustuv Sinha
   image: ksinha.jpg
   website: https://cs.mcgill.ca/~ksinha4
@@ -14,6 +16,511 @@
   scholar:
   level: phd
 
+
+- name: Martin Klissarov
+  image: mklissar.png
+  website: https://mklissa.github.io/
+  description: Temporal Abstractions, Meta-Learning, Off-policy
+  supervised_by: Doina Precup
+  scholar:
+  level: phd 
+
+
+- name: Aishik Chakraborty
+  image: default.jpg
+  website: 
+  description: Deep Learning, Multitask and Transfer Learning, NLP 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+
+- name: Amy Zhang
+  image: default.jpg
+  website: 
+  description: representation learning, deep reinforcement learning, transfer, planning 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Andre Cianflone
+  image: default.jpg
+  website: 
+  description: Natural Language Processing, Deep Learning, Reinforcement Learning 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+- name: Arushi Jain
+  image: default.jpg
+  website: https://arushijain94.github.io/
+  description: Reinforcement Learning, Temporal abstractions, AI Safety, Risk-minimization, Stochastic Approximation 
+  supervised_by: Doina Precup, Pierre-Luc Bacon 
+  scholar: 
+  level: phd 
+
+
+- name: Ayush Jain
+  image: default.jpg
+  website: 
+  description: Reinforcement Learning, Hierarchical RL, Skill-based learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Bogdan Mazoure
+  image: default.jpg
+  website: https://bmazoure.github.io/
+  description: Deep RL, representation learning, probabilistic modeling, variational inference 
+  supervised_by: Doina Precup, Devon Hjelm 
+  scholar: 
+  level: phd 
+
+
+- name: Charles C Onu
+  image: default.jpg
+  website: http://onucharles.github.io/
+  description: machine learning, healthcare 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Clara Lacroce
+  image: default.jpg
+  website: 
+  description: Learning Automata, RNN, Hankel Operators 
+  supervised_by: Prakash Panangaden, Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: David Venuto
+  image: default.jpg
+  website: https://dvvenuto.github.io/
+  description: Deep Learning, Reinforcement Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Del Verme Manuel
+  image: default.jpg
+  website: 
+  description: TBD 
+  supervised_by: Doina Precup, Pierre-Luc Bacon 
+  scholar: 
+  level: phd 
+
+
+- name: Devendra Singh Sachan
+  image: default.jpg
+  website: www.dsachan.com
+  description: Natural Language Processing; Machine Learning 
+  supervised_by: William Hamilton 
+  scholar: 
+  level: phd 
+
+
+- name: Emmanuel Bengio
+  image: default.jpg
+  website: http://folinoid.com
+  description: Deep Learning, RL 
+  supervised_by: Joelle Pineau, Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Eric Crawford
+  image: default.jpg
+  website: http://e2crawfo.github.io
+  description: Deep learning, reinforcement learning, imitation learning, transfer learning 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Faizy Ahsan
+  image: default.jpg
+  website: http://cs.mcgill.ca/~fahsan1/
+  description: Genetics, Deep Learning, Graphical Models 
+  supervised_by: Mathieu Blanchette, Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Florence Clerc
+  image: default.jpg
+  website: 
+  description: Category theory, Probabilities, Markov Processes, Quantitative Equational Logic 
+  supervised_by: Prakash Panangaden 
+  scholar: 
+  level: phd 
+
+
+- name: Haque Ishfaq
+  image: default.jpg
+  website: https://hmishfaq.github.io
+  description: Exploration in RL, Bandits, Learning Theory, TCS, Concentration inequalities, high-dimensional probability 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Harry Mingde Zhao
+  image: default.jpg
+  website: http://mingde.world
+  description: Reinforcement Learning, Meta-Learning 
+  supervised_by: Doina Precup, Yoshua Bengio 
+  scholar: 
+  level: phd 
+
+
+- name: Harsh Satija
+  image: default.jpg
+  website: 
+  description: Reinforcement learning 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Howard Huang
+  image: default.jpg
+  website: 
+  description: Reinforcement learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Hugo Sonnery
+  image: default.jpg
+  website: https://excitingtimes.github.io/.
+  description: Reinforcement learning 
+  supervised_by: Siamak Ravanbakhsh 
+  scholar: 
+  level: phd 
+
+
+- name: Ian Porada
+  image: default.jpg
+  website: https://ianporada.github.io/
+  description: Representation Learning, Natural Language Understanding, Common Sense 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+- name: Jacob Buckman
+  image: default.jpg
+  website: jacobbuckman.com
+  description: Reinforcement Learning, Deep Learning 
+  supervised_by: Doina Precup, Marc Bellemare 
+  scholar: 
+  level: phd 
+
+
+- name: Jad Kabbara
+  image: default.jpg
+  website: http://cs.mcgill.ca/~jkabba/
+  description: Natural Language  Generation, Computational Pragmatics, Deep Learning 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+- name: Jean Harb
+  image: default.jpg
+  website: http://cs.mcgill.ca/~jmerhe1/
+  description: Reinforcement Learning, Deep Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Joey Bose
+  image: default.jpg
+  website: https://joeybose.github.io/Research/ 
+  description: Generative Modelling, Adversarial Machine Learning, and Meta Learning at the intersection of structured data such as language, graphs and images. 
+  supervised_by: William Hamilton 
+  scholar: 
+  level: phd 
+
+
+- name: Jonathan Lebensold
+  image: default.jpg
+  website: 
+  description: Privacy-preserving algorithms, reinforcement learning, differential privacy, federated learning, transfer learning, healthcare 
+  supervised_by: Doina Precup, Borja Balle 
+  scholar: 
+  level: phd 
+
+
+- name: Joshua Romoff
+  image: default.jpg
+  website: http://cs.mcgill.ca/~jromof/
+  description: Reinforcement Learning, Deep Learning 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Khimya Khetarpal
+  image: default.jpg
+  website: https://kkhetarpal.github.io/
+  description: Artificial Intelligence, Reinforcement Learning, Attention, Abstractions, Continual RL, Cogsci, Robotics 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+
+
+- name: Kushal Arora
+  image: default.jpg
+  website: https://kushalarora.github.io
+  description: Reinforcement Learning, Manifold Learning, Compositionality and Representation learning for languages, NLP  
+  supervised_by: Doina Precup, Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+- name: Lianna Hambardzumyan
+  image: default.jpg
+  website: 
+  description: Analysis of Boolean functions, Computational Complexity, Combinatorics 
+  supervised_by: Prakash Panangaden, Hamed Hatami 
+  scholar: 
+  level: phd 
+
+
+- name: Malik H. Altakrori
+  image: default.jpg
+  website: https://ca.linkedin.com/in/malikaltakrori
+  description: Authorship Analysis, Text Mining, Machine Learning, NLP, and Deep Learning 
+  supervised_by: Jackie Cheung, Benjamin Fung 
+  scholar: 
+  level: phd 
+
+
+- name: Mandana Samiei
+  image: default.jpg
+  website: https://mandanasmi.github.io.
+  description: Reinforcement Learning, Meta-learning, Developmental learning, Neuroscience 
+  supervised_by: Doina Precup, Blake Richards 
+  scholar: 
+  level: phd 
+
+
+- name: Martin Gerdzhev
+  image: default.jpg
+  website: http://martingerdzhev.com
+  description: robotics, autonomous systems and vehicles, machine learning, deep learning, inverse reinforcement learning 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Maxime Wabartha
+  image: default.jpg
+  website: 
+  description: deep learning, reinforcement learning, uncertainty 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Maziar Gomrokchi
+  image: default.jpg
+  website: 
+  description: Privacy-Preserving  RL, Adversarial Privacy Attacks in Deep RL, Reinforcement Learning, Differential Privacy, Exploration-Exploitation Trade-Off  
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Melissa Mozifian
+  image: default.jpg
+  website: http://melfm.github.io/about.html
+  description: deep reinforcement learning, transfer and meta-learning, imitation learning 
+  supervised_by: Joelle Pineau, David Meger 
+  scholar: 
+  level: phd 
+
+
+- name: Neda Etebari Alamdari
+  image: default.jpg
+  website: 
+  description: Reinforcement Learning, Machine Learning, Optimization, Revenue Management 
+  supervised_by: Doina Precup, Gilles Savard 
+  scholar: 
+  level: phd 
+
+
+- name: Neil Girdhar
+  image: default.jpg
+  website: 
+  description: causal models, deep learning, representation learning, energy-based models 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Nicolas Angelard-Gontier
+  image: default.jpg
+  website: http://cs.mcgill.ca/~nangel3
+  description: question answering, language understanding, generative systems 
+  supervised_by: Christopher Pal, Joelle Pineau 
+  scholar: 
+  level: phd 
+
+
+- name: Nishanth Anand
+  image: default.jpg
+  website: https://mila.quebec/en/person/nishanth-anand/
+  description: Temporal credit assignment, Reinforcement Learning Theory, Deep Reinforcement Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+
+
+- name: Priyesh Vijayan
+  image: default.jpg
+  website: https://priyeshv.github.io/
+  description: Representation learning, Deep learning, Multi-View learning, Social Networks and NLP 
+  supervised_by: Will Hamilton 
+  scholar: 
+  level: phd 
+
+
+- name: Raymond Chua
+  image: default.jpg
+  website: 
+  description: neuroscience, reinforcement learning, continual learning, hippocampal and artificial replay 
+  supervised_by: Doina Precup, Blake Richards 
+  scholar: 
+  level: phd 
+
+
+- name: Riashat Islam
+  image: default.jpg
+  website: https://riashatislam.com/
+  description: Reinforcement Learning, Sample Complexity, Optimization Methods; Bayesian and Probabilistic Graphical Models, Information Theory 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Safa Alver
+  image: default.jpg
+  website: 
+  description: Reinforcement Learning, Meta Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Sahand Rezaei-Shoshtari
+  image: default.jpg
+  website: https://sahandrez.github.io/
+  description: Deep RL, Hierarchical RL, Robotics, Representation Learning 
+  supervised_by: Doina Precup, David Meger 
+  scholar: 
+  level: phd 
+
+
+- name: Samin Yeasar Arnob
+  image: default.jpg
+  website: https://www.linkedin.com/in/samin-yeasar-arnob/
+  description: Deep Reinforcement learning, Imitation Learning, Inverse reinforcement learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Scott Fujimoto
+  image: default.jpg
+  website: 
+  description: Deep reinforcement learning, robotics 
+  supervised_by: Doina Precup, David Meger 
+  scholar: 
+  level: phd 
+
+
+- name: Shuyuan Zhang
+  image: default.jpg
+  website: 
+  description: Reinforcement learning, neuroscience 
+  supervised_by: Doina Precup, Xiaowen Chang 
+  scholar: 
+  level: phd 
+
+
+- name: Sitao Luan
+  image: default.jpg
+  website: https://luansitao.wixsite.com/mysite
+  description: Reinforcement Learning, Graph Networks, Planning, Matrix Computation 
+  supervised_by: Doina Precup, Xiao-Wen Chang 
+  scholar: 
+  level: phd 
+
+
+- name: Sumana Basu
+  image: default.jpg
+  website: 
+  description: Reinforcement Learning 
+  supervised_by: Doina Precup, Adriana Romero 
+  scholar: 
+  level: phd 
+
+
+- name: Tianyu Li
+  image: default.jpg
+  website: 
+  description: machine learning, reinforcement learning, time series, system dynamics 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Veronica Chelu
+  image: default.jpg
+  website: 
+  description: reinforcement learning, lifelong learning, predictive models 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: phd 
+
+
+- name: Wesley Chung
+  image: default.jpg
+  website: 
+  description: reinforcement learning, policy optimization, continual learning 
+  supervised_by: Doina Precup, David Meger 
+  scholar: 
+  level: phd 
+
+
+- name: Yue Dong
+  image: default.jpg
+  website: https://www.cs.mcgill.ca/~ydong26/
+  description: NLP, deep learning, reinforcement learning 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: phd 
+
+
+
+
+### Msc
+
 - name: Andrei Lupu
   image: andreilupu.jpg
   website:
@@ -21,6 +528,326 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
+
+  - name: Akshatha Arodi Nagaraja
+  image: default.jpg
+  website: https://www.linkedin.com/in/akshatha-arodi-b4aa757/
+  description: Natural Language Processing, Theory of Mind, Deep learning 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: msc 
+
+
+- name: Albert Orozco Camacho
+  image: default.jpg
+  website: https://alorozco53.github.io
+  description: Network Science, Natural Language Processing, Deep Learning, Game Theoretic RL, Graph Representation Learning, Applications of RL, AI Theory 
+  supervised_by: Reihaneh Rabbany 
+  scholar: 
+  level: msc 
+
+
+- name: Anand Kamat
+  image: default.jpg
+  website: 
+  description: Deep Learning, Reinforcement Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Andrei Mircea Romascanu
+  image: default.jpg
+  website: https://mirandrom.github.io
+  description: Natural Language Processing, Reinforcement Learning 
+  supervised_by: Jackie Cheung, Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Anthony G.X. Chen
+  image: default.jpg
+  website: https://im-ant.github.io/
+  description: reinforcement learning, neuroscience, deep reinforcement learning, generalization, transfer 
+  supervised_by: Joelle Pineau, Blake Richards 
+  scholar: 
+  level: msc 
+
+
+- name: Ariella Smofsky
+  image: default.jpg
+  website: 
+  description: Learning Automata, weighted automata 
+  supervised_by: Prakash Panangaden 
+  scholar: 
+  level: msc 
+
+
+- name: Barleen Kaur
+  image: default.jpg
+  website: http://www.cim.mcgill.ca/~barleenk/
+  description: Machine learning, deep learning, transfer learning, generative models 
+  supervised_by: Doina Precup, Tal Arbel  
+  scholar: 
+  level: msc 
+
+
+- name: Charlotte Ding
+  image: default.jpg
+  website: 
+  description: network science, graph representation learning, disease modelling 
+  supervised_by: Reihaneh Rabbany 
+  scholar: 
+  level: msc 
+
+
+- name: Chen-Yang Su
+  image: default.jpg
+  website: https://chenyangsu.github.io/
+  description: Inverse Reinforcement Learning, Imitation Learning, Causal Inference, Statistical Genetics, Machine Learning Applications to Healthcare 
+  supervised_by: Joelle Pineau,  Brent Richards 
+  scholar: 
+  level: msc 
+
+
+- name: Clément Jumel
+  image: default.jpg
+  website: 
+  description: NLP, natural language reasoning  
+  supervised_by: Jackie Cheung, Annie Louis 
+  scholar: 
+  level: msc 
+
+
+- name: Deepak Sharma
+  image: default.jpg
+  website: https://dsharma.me
+  description: causal inference, large-scale probabilistic inference, generative models, reinforcement learning, applications to healthcare and finance  
+  supervised_by: Joelle Pineau, Audrey Durand 
+  scholar: 
+  level: msc 
+
+
+- name: Dora Jambor
+  image: default.jpg
+  website: www.dorajambor.com
+  description: graph representation learning, meta-learning, logical rule induction, natural language processing 
+  supervised_by: Joelle Pineau, William Hamilton 
+  scholar: 
+  level: msc 
+
+
+- name: Etienne Denis
+  image: default.jpg
+  website: www.etienneden.is
+  description: Inductive learning, graph representation learning, relational inference, neural knowledge graphs, language transformers, graph neural networks 
+  supervised_by: William Hamilton 
+  scholar: 
+  level: msc 
+
+
+- name: Gandharv Patil
+  image: default.jpg
+  website: http://www.gandharvpatil.com
+  description: Bayesian Inference, Optimization and Statistical Learning Theory 
+  supervised_by: Doina Precup, Jeremy Cooperstock 
+  scholar: 
+  level: msc 
+
+
+- name: Jiapeng Wu
+  image: default.jpg
+  website: https://www.linkedin.com/in/jiapeng-wu-590014111/
+  description: natural languag reasoning, knowledge graph representation 
+  supervised_by: Jackie Cheung, William Hamilton 
+  scholar: 
+  level: msc 
+
+
+- name: Jin Dong
+  image: default.jpg
+  website: http://djdongjin.github.io
+  description: NLP, natural language reasoning, graph networks 
+  supervised_by: William Hamilton 
+  scholar: 
+  level: msc 
+
+
+- name: Joshua Holla
+  image: default.jpg
+  website: https://joshholla.github.io/
+  description: Reinforcement Learning, Deep Learning, Transfer Learning 
+  supervised_by: Doina Precup, David Meger 
+  scholar: 
+  level: msc 
+
+
+- name: Jules Gagnon-Marchand
+  image: default.jpg
+  website: https://www.linkedin.com/in/julesgm/
+  description: nlp, unsupervised learning, generative models, transfer learning, transformer model improvements, abstractive question answering 
+  supervised_by: Jackie Cheung 
+  scholar: 
+  level: msc 
+
+
+- name: Junhao Wang
+  image: default.jpg
+  website: https://the-hao.com
+  description: Deep sets, intersection between RL and graph representation learning 
+  supervised_by: Reihaney Rabbany, Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Lucas Pagé-Caccia
+  image: default.jpg
+  website: 
+  description: Deep Generative Models 
+  supervised_by: Joelle Pineau 
+  scholar: 
+  level: msc 
+
+
+- name: Matt Grenander
+  image: default.jpg
+  website: https://mgrenander.github.io/
+  description: automatic summarization, NLP 
+  supervised_by: Jackie Cheung, Annie Louis 
+  scholar: 
+  level: msc 
+
+
+- name: Mehran Shakerinava
+  image: default.jpg
+  website: https://mshakerinava.github.io/
+  description: Deep Learning, Representation Learning 
+  supervised_by: Siamak Ravanbakhsh 
+  scholar: 
+  level: msc 
+
+
+- name: Mohammad Amini
+  image: default.jpg
+  website: https://mila.quebec/en/person/mohammad-amini/
+  description: DRL, Model Based RL, planning, imitation learning, representation learning, transfer learning, hierarchical learning, Model Ensembles 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Nadeem Ward
+  image: default.jpg
+  website: https://nadeemward.github.io
+  description: Reinforcement learning, learning representations, optimization 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Nicholas Meade
+  image: default.jpg
+  website: https://ncmeade.github.io
+  description: Natural Language Processing 
+  supervised_by: Siva Reddy 
+  scholar: 
+  level: msc 
+
+
+- name: Nicolas Gagné
+  image: default.jpg
+  website: 
+  description: Entropy, Complexity, Causality. 
+  supervised_by: Prakash Panangaden 
+  scholar: 
+  level: msc 
+
+
+- name: Raviteja Chunduru
+  image: default.jpg
+  website: https://ravitej310.github.io/
+  description: Hierarchical RL, representation learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Sékou-Oumar Kaba
+  image: default.jpg
+  website: 
+  description: Deep learning, equivariance, physics, chemistry, molecules, materials, quantum mechanics, dynamical systems 
+  supervised_by: Siamak Ravanbakhsh 
+  scholar: 
+  level: msc 
+
+
+- name: Shenyang(Andy) Huang
+  image: default.jpg
+  website: https://www.cs.mcgill.ca/~shuang43/
+  description: Anamoly Detection in Temporal graph, Tensor Decomposition, Continual Learning / Lifelong Learning, Neural Architecture Search / AutoML, Deep Learning 
+  supervised_by: Reihaneh Rabbany, Guillaume Rabusseau  
+  scholar: 
+  level: msc 
+
+
+- name: Shishir Sharma
+  image: default.jpg
+  website: https://shishir13sharma.github.io/
+  description: Reinforcement Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Srinivas Venkattaramanujam
+  image: default.jpg
+  website: https://srinivr.github.io/
+  description: Reinforcement Learning 
+  supervised_by: Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Vaibhav Adlakha
+  image: default.jpg
+  website: https://vaibhavad.github.io/
+  description: Natural Language Processing, Deep Learning 
+  supervised_by: Siva Reddy 
+  scholar: 
+  level: msc 
+
+
+- name: Vincent Luczkow
+  image: default.jpg
+  website: 
+  description: reinforcement learning, causality 
+  supervised_by: Prakash Panangaden, Doina Precup 
+  scholar: 
+  level: msc 
+
+
+- name: Vishal Jain
+  image: default.jpg
+  website: https://vishaljain3991.github.io/
+  description: Deep Reinforcement Learning, NLP 
+  supervised_by: Doina Precup, Marc G Bellemare 
+  scholar: 
+  level: msc 
+
+
+- name: Ximeng Mao
+  image: default.jpg
+  website: 
+  description: deep learning, generative model, reinforcement leanring 
+  supervised_by: Joelle Pineau, Shirin A. Enger 
+  scholar: 
+  level: msc 
+
+
+
+
+
+### Alumni
 
 - name: Ali Emami
   image: aliemami.webp
@@ -31,17 +858,6 @@
   grad_degree: PhD
   grad_year: 2021
 
-
-- name: Martin Klissarov
-  image: mklissar.jpg
-  website: https://mklissa.github.io/
-  description: Temporal Abstractions, Meta-Learning, Off-policy,
-  supervised_by: Joelle Pineau
-  scholar:
-  level: phd 
-
-
-## Alumni
 
 - name: Ryan Lowe
   image: 
