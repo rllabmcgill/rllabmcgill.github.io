@@ -1,4 +1,5 @@
 # OG Author: Pierre Luc Bacon
+# Updated by: Koustuv Sinha
 
 import feedparser
 from operator import itemgetter
@@ -7,16 +8,19 @@ from bs4 import BeautifulSoup
 import yaml
 
 # Profs with their DBLP RSS feeds and the start dates
-# Include `dblp` and `startyear` tags in _data/professors.yml file to search DBLP for their papers
+# Include `dblp` and `startyear` tags in _data/professors.yml file
+# to search DBLP for their papers
 
 professors = yaml.load(open("_data/professors.yml"))
 profs_with_dblp = [p for p in professors if ("dblp" in p) and ("startyear" in p)]
 print(f"Fetching paper details for {len(profs_with_dblp)} professors and affiliates")
 
+# File where the papers will be written. This file is included by `_pages/publications.md`
 output_file = "_includes/dblp_pubs.html"
 
 publications = defaultdict(dict)
 
+# Maintain a list of unique papers
 seen_entries = []
 total = 0
 
@@ -38,9 +42,11 @@ for prof in profs_with_dblp:
         # we choose the first entry of the title.
         # This also assumes no two paper has the same title.
         if entry["title"] not in seen_entries:
+            # Parse the summary, which is a formatted html.
             soup = BeautifulSoup(entry["summary"], "html.parser")
             authors = soup.find_all(itemprop="author")
             author_string = ",".join([str(auth.contents[0]) for auth in authors])
+            # Not all papers have correct venues, ignore them
             isPartOf = soup.find_all(itemprop="isPartOf")
             if len(isPartOf) == 0:
                 venue = ""
@@ -61,7 +67,9 @@ for prof in profs_with_dblp:
 
 print(f"Writing total of {total} papers in {output_file}")
 
+# Write in the output file
 with open(output_file, "w") as f:
+    # add an index for quick search
     years = publications.keys()
     header = "Years active:" + ",".join([f" [{y}](#{y})" for y in years]) + "\n\n"
     f.write(header)
