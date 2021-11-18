@@ -9,13 +9,13 @@ nav: true
 {% for course in site.data.courses %}
 
 <div id="{{course.name | replace: ' ', '' }}" class="row">
-<h4>{{course.name}}</h4>
+<h4 class="col-md-12">{{course.name}}</h4>
+<br>
 <div class="col-md-12">
-<p class="text-justify">{{course.description | markdownify}}</p>
+{{course.description | markdownify}}
 {% if course.website %}
-    <i class="fa fa-globe"></i> <a href= "{{course.website}}" target="_blank">{{course.website}}</a> <br>
+    <i class="fa fa-globe"></i> &nbsp; <a href= "{{course.website}}" target="_blank">{{course.website}}</a></div>
 {% endif %}
-</div>
 </div>
 <hr>
 
