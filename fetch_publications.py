@@ -11,7 +11,7 @@ import yaml
 # Include `dblp` and `startyear` tags in _data/professors.yml file
 # to search DBLP for their papers
 
-professors = yaml.load(open("_data/professors.yml"))
+professors = yaml.safe_load(open("_data/professors.yml"))
 profs_with_dblp = [p for p in professors if ("dblp" in p) and ("startyear" in p)]
 print(f"Fetching paper details for {len(profs_with_dblp)} professors and affiliates")
 
