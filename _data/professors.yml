@@ -4,6 +4,8 @@
   description: Reinforcement Learning, NLP, Dialog
   scholar:
   level: core
+  dblp: http://dblp.uni-trier.de/pers/xs/p/Pineau:Joelle.rss
+  startyear: 2005
 
 - name: Doina Precup
   image: dprecup.jpg
@@ -11,6 +13,8 @@
   description: Reinforcement Learning, Reasoning and planning under uncertainty
   scholar:
   level: core
+  dblp: http://dblp.uni-trier.de/pers/xs/p/Precup:Doina.rss
+  startyear: 2001
 
 - name: Jackie Chi Kit Cheung
   image: jcheung.jpg
@@ -18,6 +22,8 @@
   description: NLP, Summarization, Computational Semantics
   scholar:
   level: core
+  dblp: https://dblp.org/pid/00/9012.rss
+  startyear: 2015
 
 - name: Prakash Panangaden
   image: prakash.jpg
@@ -25,6 +31,8 @@
   description: Machine Learning, Quantum Information Theory, Probabilistic Systems
   scholar:
   level: core
+  dblp: http://dblp.uni-trier.de/pers/xs/p/Panangaden:Prakash.rss
+  startyear: 1997
 
 - name: Reihaneh Rabbany
   image: rraba.png
@@ -61,14 +69,12 @@
   scholar:
   level: affiliate
 
-
 - name: Nicolas Le Roux
   image: nleroux.jpg
   website: http://nicolas.le-roux.name/
-  description: Machine Learning, Neural Networks, Optimization and Large-Scale Learning 
+  description: Machine Learning, Neural Networks, Optimization and Large-Scale Learning
   scholar:
   level: affiliate
-
 
 - name: Marc G. Bellemare
   image: mbellemare.jpg

@@ -61,6 +61,10 @@ Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alum
 
 This configuration will hopefully make long term maintenance easier!
 
+## Publications
+
+We also maintain list of [publications](https://rl.cs.mcgill.ca/publications/) by RLLab Profs (core and affiliate). A [python script](/fetch_publications.py) is used to fetch and parse publications from our profs (thanks to the OG Pierre Luc for the initial version of this script!). To include a prof in the search list, ensure the data of the prof in `_data/professors.yml` contains the fields `dblp` and `startyear`, where `dblp` is the RSS permalink of the user from [DBLP](https://dblp.org/), and `startyear` is the year when the prof started their tenure in McGill. This script will be periodically executed by Github Actions (`schedule` workflow) to maintain an up to date list of our lab members.
+
 ## Deploying
 
 The website currently resides in [http://rl.cs.mcgill.ca/alpha](http://rl.cs.mcgill.ca/alpha). The build and deploy Github actions are in `.github/workflows/jekyll.yml`, which is heavily inspired from this [nice blog post](https://christianspecht.de/2020/05/03/building-and-deploying-a-jekyll-site-via-github-actions/).
