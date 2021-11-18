@@ -30,7 +30,7 @@ for prof in profs_with_dblp:
     print(f"Fetching papers for author : {prof_name}")
     dblp = prof["dblp"]
     start_year = prof["startyear"]
-    d = feedparser.parse(dblp)
+    d = feedparser.parse(dblp, sanitize_html=False)
     print(f"Got {len(d['entries'])} papers")
     ct = 0
 
