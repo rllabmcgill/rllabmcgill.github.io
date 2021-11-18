@@ -1,8 +1,9 @@
 name: Fetch publications
 
 on:
-  schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+  workflow_dispatch
+  # schedule:
+  #   - cron: "0 0 * * *" #runs at 00:00 UTC everyday
 
 jobs:
   build:
