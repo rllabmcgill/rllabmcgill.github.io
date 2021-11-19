@@ -13,7 +13,7 @@ description:
 
 {% for person in coreprofs %}
 
-{% include person.html %}
+{% include prof.html %}
 
 {% endfor %}
 

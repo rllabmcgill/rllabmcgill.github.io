@@ -146,6 +146,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-datapage-generator
 
 # Extras
 github: [metadata]
@@ -206,6 +207,20 @@ enable_project_categories:
   true # enables categorization of projects into
   # multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
+
+# ----------------------------------
+# Jekyll Data page generator
+# ----------------------------------
+
+page_gen-dirs: true
+page_gen:
+  - data: professors
+    template: professors
+    dir: people
+    filter_condition: "record['level'] == 'core'"
+    name: name
+    title: name
+    debug: true
 
 # -----------------------------------------------------------------------------
 # Library versions

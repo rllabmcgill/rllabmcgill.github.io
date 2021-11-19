@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<div class="post">
+
+<div class="row">
+    <div class="col-md-4">
+    <img src="{{ page.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{page.title}}" class="img-fluid z-depth-1 rounded float-left">
+    </div>
+    <div class="col-md-8">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.bio %}
+      <p>{{page.bio | markdownify}}</p>
+      {% endif %}
+      <ul>
+        <li>Research Interests: {{page.description}}</li>
+        <li>Personal Website: <a href="{{page.website}}">{{page.website}}</a></li>
+        {% if page.email %}
+        <li>Email: {{page.email}}</li>
+      </ul>
+      {% endif %}
+    </div>
+</div>
+
+{% assign postdocs = site.data.students | where: "level", "postdoc" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
+
+{% assign phds = site.data.students | where: "level", "phd" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
+
+{% assign mscs = site.data.students | where: "level", "msc" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
+
+{% if postdocs.size !=0 or phds.size !=0 or mscs.size !=0 %}
+
+<div class="row col-md-12 pt-4">
+<h3>Students</h3>
+
+{% if postdocs.size !=0 %}
+
+<ul class="col-md-12">
+{% for person in postdocs %}
+
+<li><a href="{{person.website}}">{{person.name}}</a>, Postdoc</li>
+
+{% endfor %}
+
+</ul>
+
+{% endif %}
+
+{% if phds.size !=0 %}
+
+<ul class="col-md-12">
+{% for person in phds %}
+
+<li><a href="{{person.website}}">{{person.name}}</a>, PhD</li>
+
+{% endfor %}
+
+</ul>
+
+{% endif %}
+
+{% if mscs.size !=0 %}
+
+<ul class="col-md-12">
+{% for person in mscs %}
+
+<li><a href="{{person.website}}">{{person.name}}</a>, MSc</li>
+
+{% endfor %}
+
+</ul>
+
+{% endif %}
+
+</div>
+
+{% endif %}
+
+</div>
+
+{% assign alumnis = site.data.students | where: "level", "alumni" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'degree_year'  %}
+
+{% if alumnis.size != 0 %}
+
+<div class="row col-md-12 pt-4">
+<h3>Past Students</h3>
+<ul class="col-md-12">
+{% for person in alumnis %}
+
+<li><a href="{{person.website}}">{{person.name}}</a>, {{person.grad_degree}}, {{person.grad_year}}</li>
+
+{% endfor %}
+
+</ul>
+</div>
+{% endif %}
