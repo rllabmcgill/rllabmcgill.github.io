@@ -11,7 +11,14 @@ This repo contains the **alpha build** of the new website redesign. The existing
 - Easy to update personal information, which can be made by just editing the `.yml` files
 - Easy to deploy, as any PR merge will trigger remote build and push to our server
 
-The website is powered by [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme, which is now increasingly used by many personal portfolios, labs and conferences.
+The website is powered by [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme, which is now increasingly used by many personal portfolios, labs and conferences. Jekyll and Github Actions automation allows us to have the following features:
+
+- ✔️ Directly edit and update your information, even after graduating
+- ✔️ No knowledge of html needed, just update your information in plain text yaml file
+- ✔️ Long term minimum maintainance
+- ✔️ Automatically builds and updates the website on any change
+- ✔️ Publications page auto updates every week
+- ✔️ Professors get dedicated landing pages 
 
 ## Updating information
 
