@@ -18,7 +18,7 @@ The website is powered by [al-folio](https://github.com/alshedivat/al-folio) Jek
 - ✔️ Long term minimum maintainance
 - ✔️ Automatically builds and updates the website on any change
 - ✔️ Publications page auto updates every week
-- ✔️ Professors get dedicated landing pages 
+- ✔️ Professors get dedicated landing pages
 
 ## Updating information
 
@@ -45,7 +45,20 @@ Add the required information. `level` tag accepts either `core` or `affiliate`, 
 
 #### Landing Page
 
-Professors are very busy, so it is natural to not expect them to maintain their own students page regularly. Here, we make it super easy for a professor to maintain a list of students information for themselves! Specifically, each `core` professor gets their own dedicated landing page, which consists of their bio and students information. Any student having the prof in `supervised_by` field will be featured in this landing page, along with their degree. This page also features the list of alumni of each professor. Thus, any student can easily update their information here, which will be reflected in the website.
+Professors are very busy, so it is natural to not expect them to maintain their own students page regularly. Here, we make it super easy for a professor to maintain a list of students information for themselves! Specifically, each `core` professor gets their own dedicated landing page, which consists of their bio, students information, and course information. Any student having the prof in `supervised_by` field will be featured in this landing page, along with their degree. This page also features the list of alumni of each professor. Thus, any student can easily update their information here, which will be reflected in the website.
+
+Professors can also update their course offerings directly to be reflected in the landing page and in the [courses]() page. To add/update course, we have a `_data/courses.yml` file which takes the following keys in a list item:
+
+```yaml
+ - name: "COMP-767 : Reinforcement Learning"
+  website: http://cs.mcgill.ca/~dprecup/
+  description: New course available for the Winter 2017 semester.
+  active: false
+  offered_by: Doina Precup
+  semester: Fall 2020
+```
+
+If `active` set to `true`, the course will be featured as an "Active Course", else will be known as a "Past Course".
 
 ### Updating a student (postdoc/phd/msc/alumni)'s information
 
