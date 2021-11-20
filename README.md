@@ -74,13 +74,13 @@ Edit the `_data/students.yml` file, and add the following information:
   level: phd
 ```
 
-Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alumni` for displaying profiles under the respective subheaders in [Team page](http://rl.cs.mcgill.ca/alpha/team/). For alumni, extra fields `grad_degree` and `grad_year` are required:
+Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alumni` for displaying profiles under the respective subheaders in [Team page](http://rl.cs.mcgill.ca/alpha/team/). For alumni, extra fields `grad_degree`,`grad_year` and `status` are required:
 
 ```yaml
 - name: Ali Emami
   image: aliemami.webp
   website: http://www.cosc.brocku.ca/~aemami/
-  description: Associate Professor, Brock University
+  status: Associate Professor, Brock University
   scholar:
   level: alumni
   grad_degree: PhD

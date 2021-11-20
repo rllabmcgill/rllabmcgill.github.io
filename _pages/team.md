@@ -82,7 +82,7 @@ description:
 
 ## Alumni
 
-{% assign alumnis = site.data.students | where: "level", "alumni" | sort: 'degree_year'  %}
+{% assign alumnis = site.data.students | where: "level", "alumni" | sort: 'grad_year' | reverse  %}
 
 <div class="row">
 <ul>
