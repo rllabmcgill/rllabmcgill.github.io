@@ -78,7 +78,7 @@ Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alum
 - name: Ali Emami
   image: aliemami.webp
   website: http://www.cosc.brocku.ca/~aemami/
-  status: Associate Professor, Brock University
+  status: Assistant Professor, Brock University
   scholar:
   level: alumni
   grad_degree: PhD
