@@ -20,7 +20,7 @@ description:
 </div>
 <hr>
 
-## Affiliate Professors
+## Affiliated Professors
 
 {% assign afprofs = site.data.professors | where: "level", "affiliate" | sort: 'name' %}
 
