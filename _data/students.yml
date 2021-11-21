@@ -39,7 +39,7 @@
   description: Natural Language Understanding, Systematicity & Logic in NLU, Dialog Systems # it could be research interests, or if alumni where you are now
   supervised_by: Joelle Pineau
   scholar:
-  level: phd # postdoc,phd,msc,ug,alumni
+  level: PhD # postdoc,PhD,MSc,ug,alumni
 
 - name: Prasanna Parthasarathi
   image: prasanna.png
@@ -47,7 +47,7 @@
   description: Reinforcement Learning, Dialog
   supervised_by: Joelle Pineau
   scholar:
-  level: phd
+  level: PhD
 
 - name: Martin Klissarov
   image: mklissar.png
@@ -55,7 +55,7 @@
   description: Temporal Abstractions, Meta-Learning, Off-policy
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Aishik Chakraborty
   image: default.jpg
@@ -63,7 +63,7 @@
   description: Deep Learning, Multitask and Transfer Learning, NLP
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Amy Zhang
   image: default.jpg
@@ -82,7 +82,7 @@
   description: Natural Language Processing, Deep Learning, Reinforcement Learning
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Arushi Jain
   image: default.jpg
@@ -90,7 +90,7 @@
   description: Reinforcement Learning, Temporal abstractions, AI Safety, Risk-minimization, Stochastic Approximation
   supervised_by: Doina Precup, Pierre-Luc Bacon
   scholar:
-  level: phd
+  level: PhD
 
 - name: Ayush Jain
   image: default.jpg
@@ -98,7 +98,7 @@
   description: Reinforcement Learning, Hierarchical RL, Skill-based learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Bogdan Mazoure
   image: default.jpg
@@ -106,7 +106,7 @@
   description: Deep RL, representation learning, probabilistic modeling, variational inference
   supervised_by: Doina Precup, Devon Hjelm
   scholar:
-  level: phd
+  level: PhD
 
 - name: Charles C Onu
   image: default.jpg
@@ -114,7 +114,7 @@
   description: machine learning, healthcare
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Clara Lacroce
   image: default.jpg
@@ -122,7 +122,7 @@
   description: Learning Automata, RNN, Hankel Operators
   supervised_by: Prakash Panangaden, Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: David Venuto
   image: default.jpg
@@ -130,7 +130,7 @@
   description: Deep Learning, Reinforcement Learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Del Verme Manuel
   image: default.jpg
@@ -138,7 +138,7 @@
   description: TBD
   supervised_by: Doina Precup, Pierre-Luc Bacon
   scholar:
-  level: phd
+  level: PhD
 
 - name: Devendra Singh Sachan
   image: default.jpg
@@ -146,7 +146,7 @@
   description: Natural Language Processing; Machine Learning
   supervised_by: William Hamilton
   scholar:
-  level: phd
+  level: PhD
 
 - name: Emmanuel Bengio
   image: default.jpg
@@ -154,7 +154,7 @@
   description: Deep Learning, RL
   supervised_by: Joelle Pineau, Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Eric Crawford
   image: default.jpg
@@ -172,7 +172,7 @@
   description: Genetics, Deep Learning, Graphical Models
   supervised_by: Mathieu Blanchette, Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Florence Clerc
   image: default.jpg
@@ -190,7 +190,7 @@
   description: Exploration in RL, Bandits, Learning Theory, TCS, Concentration inequalities, high-dimensional probability
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Harry Mingde Zhao
   image: default.jpg
@@ -198,7 +198,7 @@
   description: Reinforcement Learning, Meta-Learning
   supervised_by: Doina Precup, Yoshua Bengio
   scholar:
-  level: phd
+  level: PhD
 
 - name: Harsh Satija
   image: default.jpg
@@ -206,7 +206,7 @@
   description: Reinforcement learning
   supervised_by: Joelle Pineau
   scholar:
-  level: phd
+  level: PhD
 
 - name: Howard Huang
   image: default.jpg
@@ -214,7 +214,7 @@
   description:
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Hugo Sonnery
   image: default.jpg
@@ -222,7 +222,7 @@
   description:
   supervised_by: Siamak Ravanbakhsh
   scholar:
-  level: phd
+  level: PhD
 
 - name: Ian Porada
   image: default.jpg
@@ -230,7 +230,7 @@
   description: Representation Learning, Natural Language Understanding, Common Sense
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Jacob Buckman
   image: default.jpg
@@ -238,7 +238,7 @@
   description: Reinforcement Learning, Deep Learning
   supervised_by: Doina Precup, Marc Bellemare
   scholar:
-  level: phd
+  level: PhD
 
 - name: Jad Kabbara
   image: default.jpg
@@ -246,7 +246,7 @@
   description: Natural Language  Generation, Computational Pragmatics, Deep Learning
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Jean Harb
   image: default.jpg
@@ -254,7 +254,7 @@
   description: Reinforcement Learning, Deep Learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Joey Bose
   image: default.jpg
@@ -262,7 +262,7 @@
   description: Generative Modelling, Adversarial Machine Learning, and Meta Learning at the intersection of structured data such as language, graphs and images.
   supervised_by: Prakash Panangaden
   scholar:
-  level: phd
+  level: PhD
 
 - name: Jonathan Lebensold
   image: default.jpg
@@ -270,7 +270,7 @@
   description: Privacy-preserving algorithms, reinforcement learning, differential privacy, federated learning, transfer learning, healthcare
   supervised_by: Doina Precup, Borja Balle
   scholar:
-  level: phd
+  level: PhD
 
 - name: Joshua Romoff
   image: default.jpg
@@ -288,7 +288,7 @@
   description: Artificial Intelligence, Reinforcement Learning, Attention, Abstractions, Continual RL, Cogsci, Robotics
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Kushal Arora
   image: default.jpg
@@ -296,7 +296,7 @@
   description: Reinforcement Learning, Manifold Learning, Compositionality and Representation learning for languages, NLP
   supervised_by: Doina Precup, Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Lianna Hambardzumyan
   image: default.jpg
@@ -304,7 +304,7 @@
   description: Analysis of Boolean functions, Computational Complexity, Combinatorics
   supervised_by: Hamed Hatami
   scholar:
-  level: phd
+  level: PhD
 
 - name: Malik H. Altakrori
   image: default.jpg
@@ -312,7 +312,7 @@
   description: Authorship Analysis, Text Mining, Machine Learning, NLP, and Deep Learning
   supervised_by: Jackie Chi Kit Cheung, Benjamin Fung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Mandana Samiei
   image: default.jpg
@@ -320,7 +320,7 @@
   description: Reinforcement Learning, Meta-learning, Developmental learning, Neuroscience
   supervised_by: Doina Precup, Blake Richards
   scholar:
-  level: phd
+  level: PhD
 
 - name: Martin Gerdzhev
   image: default.jpg
@@ -328,7 +328,7 @@
   description: robotics, autonomous systems and vehicles, machine learning, deep learning, inverse reinforcement learning
   supervised_by: Joelle Pineau
   scholar:
-  level: phd
+  level: PhD
 
 - name: Maxime Wabartha
   image: default.jpg
@@ -336,7 +336,7 @@
   description: deep learning, reinforcement learning, uncertainty
   supervised_by: Joelle Pineau
   scholar:
-  level: phd
+  level: PhD
 
 - name: Maziar Gomrokchi
   image: default.jpg
@@ -344,7 +344,7 @@
   description: Privacy-Preserving  RL, Adversarial Privacy Attacks in Deep RL, Reinforcement Learning, Differential Privacy, Exploration-Exploitation Trade-Off
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Melissa Mozifian
   image: default.jpg
@@ -352,7 +352,7 @@
   description: deep reinforcement learning, transfer and meta-learning, imitation learning
   supervised_by: Joelle Pineau, David Meger
   scholar:
-  level: phd
+  level: PhD
 
 - name: Neda Etebari Alamdari
   image: default.jpg
@@ -360,7 +360,7 @@
   description: Reinforcement Learning, Machine Learning, Optimization, Revenue Management
   supervised_by: Doina Precup, Gilles Savard
   scholar:
-  level: phd
+  level: PhD
 
 - name: Neil Girdhar
   image: default.jpg
@@ -368,7 +368,7 @@
   description: causal models, deep learning, representation learning, energy-based models
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Nicolas Angelard-Gontier
   image: default.jpg
@@ -387,7 +387,7 @@
   description: Temporal credit assignment, Reinforcement Learning Theory, Deep Reinforcement Learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Priyesh Vijayan
   image: default.jpg
@@ -395,7 +395,7 @@
   description: Representation learning, Deep learning, Multi-View learning, Social Networks and NLP
   supervised_by: Will Hamilton
   scholar:
-  level: phd
+  level: PhD
 
 - name: Raymond Chua
   image: default.jpg
@@ -403,7 +403,7 @@
   description: neuroscience, reinforcement learning, continual learning, hippocampal and artificial replay
   supervised_by: Doina Precup, Blake Richards
   scholar:
-  level: phd
+  level: PhD
 
 - name: Riashat Islam
   image: default.jpg
@@ -411,7 +411,7 @@
   description: Reinforcement Learning, Sample Complexity, Optimization Methods; Bayesian and Probabilistic Graphical Models, Information Theory
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Safa Alver
   image: default.jpg
@@ -419,7 +419,7 @@
   description: Reinforcement Learning, Meta Learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Sahand Rezaei-Shoshtari
   image: default.jpg
@@ -427,7 +427,7 @@
   description: Deep RL, Hierarchical RL, Robotics, Representation Learning
   supervised_by: Doina Precup, David Meger
   scholar:
-  level: phd
+  level: PhD
 
 - name: Samin Yeasar Arnob
   image: default.jpg
@@ -435,7 +435,7 @@
   description: Deep Reinforcement learning, Imitation Learning, Inverse reinforcement learning
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Scott Fujimoto
   image: default.jpg
@@ -443,7 +443,7 @@
   description: Deep reinforcement learning, robotics
   supervised_by: Doina Precup, David Meger
   scholar:
-  level: phd
+  level: PhD
 
 - name: Shuyuan Zhang
   image: default.jpg
@@ -451,7 +451,7 @@
   description: Reinforcement learning, neuroscience
   supervised_by: Doina Precup, Xiaowen Chang
   scholar:
-  level: phd
+  level: PhD
 
 - name: Sitao Luan
   image: default.jpg
@@ -459,7 +459,7 @@
   description: Reinforcement Learning, Graph Networks, Planning, Matrix Computation
   supervised_by: Doina Precup, Xiao-Wen Chang
   scholar:
-  level: phd
+  level: PhD
 
 - name: Sumana Basu
   image: default.jpg
@@ -467,7 +467,7 @@
   description: Reinforcement Learning
   supervised_by: Doina Precup, Adriana Romero
   scholar:
-  level: phd
+  level: PhD
 
 - name: Tianyu Li
   image: default.jpg
@@ -475,7 +475,7 @@
   description: machine learning, reinforcement learning, time series, system dynamics
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Veronica Chelu
   image: default.jpg
@@ -483,7 +483,7 @@
   description: reinforcement learning, lifelong learning, predictive models
   supervised_by: Doina Precup
   scholar:
-  level: phd
+  level: PhD
 
 - name: Wesley Chung
   image: default.jpg
@@ -491,7 +491,7 @@
   description: reinforcement learning, policy optimization, continual learning
   supervised_by: Doina Precup, David Meger
   scholar:
-  level: phd
+  level: PhD
 
 - name: Yue Dong
   image: default.jpg
@@ -499,7 +499,7 @@
   description: NLP, deep learning, reinforcement learning
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: phd
+  level: PhD
 
 - name: Vincent Luczkow
   image: default.jpg
@@ -507,7 +507,7 @@
   description: reinforcement learning, causality
   supervised_by: Prakash Panangaden, Doina Precup
   scholar:
-  level: phd
+  level: PhD
   
 ############################################## Msc ##############################################
 
@@ -517,7 +517,7 @@
   description: 
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: MSc
   
 - name: Tyle Katsner
   image: default.jpg
@@ -525,7 +525,7 @@
   description: 
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: MSc
 
 - name: Andrei Lupu
   image: andreilupu.jpg
@@ -533,7 +533,7 @@
   description: Reinforcement Learning, NLP
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Akshatha Arodi Nagaraja
   image: default.jpg
@@ -541,7 +541,7 @@
   description: Natural Language Processing, Theory of Mind, Deep learning
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: msc
+  level: MSc
 
 - name: Albert Orozco Camacho
   image: default.jpg
@@ -549,7 +549,7 @@
   description: Network Science, Natural Language Processing, Deep Learning, Game Theoretic RL, Graph Representation Learning, Applications of RL, AI Theory
   supervised_by: Reihaneh Rabbany
   scholar:
-  level: msc
+  level: MSc
 
 - name: Anand Kamat
   image: default.jpg
@@ -557,7 +557,7 @@
   description: Deep Learning, Reinforcement Learning
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Andrei Mircea Romascanu
   image: default.jpg
@@ -565,7 +565,7 @@
   description: Natural Language Processing, Reinforcement Learning
   supervised_by: Jackie Chi Kit Cheung, Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Anthony G.X. Chen
   image: default.jpg
@@ -573,7 +573,7 @@
   description: reinforcement learning, neuroscience, deep reinforcement learning, generalization, transfer
   supervised_by: Joelle Pineau, Blake Richards
   scholar:
-  level: msc
+  level: MSc
 
 - name: Ariella Smofsky
   image: default.jpg
@@ -582,7 +582,7 @@
   supervised_by: Prakash Panangaden
   scholar:
   level: alumni
-  grad_degree: msc
+  grad_degree: MSc
   grad_year: 2020
 
 - name: Barleen Kaur
@@ -591,7 +591,7 @@
   description: Machine learning, deep learning, transfer learning, generative models
   supervised_by: Doina Precup, Tal Arbel
   scholar:
-  level: msc
+  level: MSc
 
 - name: Cesare Spinoso-Di Piano
   image: cspino.png
@@ -599,7 +599,7 @@
   description: Biomedical natural language processing
   supervised_by: Jackie Chi Kit Cheung, Samira Rahimi
   scholar:
-  level: msc
+  level: MSc
 
 - name: Charlotte Ding
   image: default.jpg
@@ -607,7 +607,7 @@
   description: network science, graph representation learning, disease modelling
   supervised_by: Reihaneh Rabbany
   scholar:
-  level: msc
+  level: MSc
 
 - name: Chen-Yang Su
   image: default.jpg
@@ -615,7 +615,7 @@
   description: Inverse Reinforcement Learning, Imitation Learning, Causal Inference, Statistical Genetics, Machine Learning Applications to Healthcare
   supervised_by: Joelle Pineau,  Brent Richards
   scholar:
-  level: msc
+  level: MSc
 
 - name: Clément Jumel
   image: default.jpg
@@ -623,7 +623,7 @@
   description: NLP, natural language reasoning
   supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
-  level: msc
+  level: MSc
 
 - name: Deepak Sharma
   image: default.jpg
@@ -631,7 +631,7 @@
   description: causal inference, large-scale probabilistic inference, generative models, reinforcement learning, applications to healthcare and finance
   supervised_by: Joelle Pineau, Audrey Durand
   scholar:
-  level: msc
+  level: MSc
 
 - name: Dora Jambor
   image: default.jpg
@@ -639,7 +639,7 @@
   description: graph representation learning, meta-learning, logical rule induction, natural language processing
   supervised_by: Joelle Pineau, William Hamilton
   scholar:
-  level: msc
+  level: MSc
 
 - name: Etienne Denis
   image: default.jpg
@@ -647,7 +647,7 @@
   description: Inductive learning, graph representation learning, relational inference, neural knowledge graphs, language transformers, graph neural networks
   supervised_by: William Hamilton
   scholar:
-  level: msc
+  level: MSc
 
 - name: Gandharv Patil
   image: default.jpg
@@ -655,7 +655,7 @@
   description: Bayesian Inference, Optimization and Statistical Learning Theory
   supervised_by: Doina Precup, Jeremy Cooperstock
   scholar:
-  level: msc
+  level: MSc
 
 - name: Jiapeng Wu
   image: default.jpg
@@ -663,7 +663,7 @@
   description: natural languag reasoning, knowledge graph representation
   supervised_by: Jackie Chi Kit Cheung, William Hamilton
   scholar:
-  level: msc
+  level: MSc
 
 - name: Jin Dong
   image: default.jpg
@@ -671,7 +671,7 @@
   description: NLP, natural language reasoning, graph networks
   supervised_by: William Hamilton
   scholar:
-  level: msc
+  level: MSc
 
 - name: Joshua Holla
   image: default.jpg
@@ -679,7 +679,7 @@
   description: Reinforcement Learning, Deep Learning, Transfer Learning
   supervised_by: Doina Precup, David Meger
   scholar:
-  level: msc
+  level: MSc
 
 - name: Jules Gagnon-Marchand
   image: default.jpg
@@ -687,7 +687,7 @@
   description: nlp, unsupervised learning, generative models, transfer learning, transformer model improvements, abstractive question answering
   supervised_by: Jackie Chi Kit Cheung
   scholar:
-  level: msc
+  level: MSc
 
 - name: Junhao Wang
   image: default.jpg
@@ -695,7 +695,7 @@
   description: Deep sets, intersection between RL and graph representation learning
   supervised_by: Reihaney Rabbany, Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Lucas Pagé-Caccia
   image: default.jpg
@@ -703,7 +703,7 @@
   description: Deep Generative Models
   supervised_by: Joelle Pineau
   scholar:
-  level: msc
+  level: MSc
 
 - name: Matt Grenander
   image: default.jpg
@@ -711,7 +711,7 @@
   description: automatic summarization, NLP
   supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
-  level: msc
+  level: MSc
 
 - name: Mehran Shakerinava
   image: default.jpg
@@ -719,7 +719,7 @@
   description: Deep Learning, Representation Learning
   supervised_by: Siamak Ravanbakhsh
   scholar:
-  level: msc
+  level: MSc
 
 - name: Mohammad Amini
   image: default.jpg
@@ -727,7 +727,7 @@
   description: DRL, Model Based RL, planning, imitation learning, representation learning, transfer learning, hierarchical learning, Model Ensembles
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Nadeem Ward
   image: default.jpg
@@ -735,7 +735,7 @@
   description: Reinforcement learning, learning representations, optimization
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Nicholas Meade
   image: default.jpg
@@ -743,7 +743,7 @@
   description: Natural Language Processing
   supervised_by: Siva Reddy
   scholar:
-  level: msc
+  level: MSc
 
 - name: Nicolas Gagné
   image: default.jpg
@@ -752,7 +752,7 @@
   supervised_by: Prakash Panangaden
   scholar:
   level: alumni
-  grad_degree: msc
+  grad_degree: MSc
   grad_year: 2018
 
 - name: Raviteja Chunduru
@@ -761,7 +761,7 @@
   description: Hierarchical RL, representation learning
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Sékou-Oumar Kaba
   image: default.jpg
@@ -769,7 +769,7 @@
   description: Deep learning, equivariance, physics, chemistry, molecules, materials, quantum mechanics, dynamical systems
   supervised_by: Siamak Ravanbakhsh
   scholar:
-  level: msc
+  level: MSc
 
 - name: Shenyang(Andy) Huang
   image: default.jpg
@@ -777,7 +777,7 @@
   description: Anamoly Detection in Temporal graph, Tensor Decomposition, Continual Learning / Lifelong Learning, Neural Architecture Search / AutoML, Deep Learning
   supervised_by: Reihaneh Rabbany, Guillaume Rabusseau
   scholar:
-  level: msc
+  level: MSc
 
 - name: Shishir Sharma
   image: default.jpg
@@ -785,7 +785,7 @@
   description: Reinforcement Learning
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Srinivas Venkattaramanujam
   image: default.jpg
@@ -793,7 +793,7 @@
   description: Reinforcement Learning
   supervised_by: Doina Precup
   scholar:
-  level: msc
+  level: MSc
 
 - name: Vaibhav Adlakha
   image: default.jpg
@@ -801,7 +801,7 @@
   description: Natural Language Processing, Deep Learning
   supervised_by: Siva Reddy
   scholar:
-  level: msc
+  level: MSc
 
 
 - name: Vishal Jain
@@ -810,7 +810,7 @@
   description: Deep Reinforcement Learning, NLP
   supervised_by: Doina Precup, Marc G Bellemare
   scholar:
-  level: msc
+  level: MSc
 
 - name: Ximeng Mao
   image: default.jpg
@@ -818,7 +818,7 @@
   description: deep learning, generative model, reinforcement leanring
   supervised_by: Joelle Pineau, Shirin A. Enger
   scholar:
-  level: msc
+  level: MSc
 
 ### Alumni
 
