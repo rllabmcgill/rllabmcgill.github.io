@@ -140,7 +140,6 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-target-blank
