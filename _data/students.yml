@@ -565,6 +565,14 @@
   scholar:
   level: msc
 
+- name: Cesare Spinoso-Di Piano
+  image: cspino.png
+  website:
+  description: Biomedical natural language processing
+  supervised by: Jackie Chi Kit Cheung, Samira Rahimi
+  scholar:
+  level: msc
+
 - name: Charlotte Ding
   image: default.jpg
   website:
