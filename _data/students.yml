@@ -180,7 +180,9 @@
   description: Category theory, Probabilities, Markov Processes, Quantitative Equational Logic
   supervised_by: Prakash Panangaden
   scholar:
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2021
 
 - name: Haque Ishfaq
   image: default.jpg
@@ -258,7 +260,7 @@
   image: default.jpg
   website: https://joeybose.github.io/Research/
   description: Generative Modelling, Adversarial Machine Learning, and Meta Learning at the intersection of structured data such as language, graphs and images.
-  supervised_by: William Hamilton
+  supervised_by: Prakash Panangaden
   scholar:
   level: phd
 
@@ -300,7 +302,7 @@
   image: default.jpg
   website:
   description: Analysis of Boolean functions, Computational Complexity, Combinatorics
-  supervised_by: Prakash Panangaden, Hamed Hatami
+  supervised_by: Hamed Hatami
   scholar:
   level: phd
 
@@ -499,7 +501,31 @@
   scholar:
   level: phd
 
+- name: Vincent Luczkow
+  image: default.jpg
+  website:
+  description: reinforcement learning, causality
+  supervised_by: Prakash Panangaden, Doina Precup
+  scholar:
+  level: phd
+  
 ############################################## Msc ##############################################
+
+- name: Rosie Zhao
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
+  scholar:
+  level: msc
+  
+- name: Tyle Katsner
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
+  scholar:
+  level: msc
 
 - name: Andrei Lupu
   image: andreilupu.jpg
@@ -555,7 +581,9 @@
   description: Learning Automata, weighted automata
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: alumni
+  grad_degree: msc
+  grad_year: 2020
 
 - name: Barleen Kaur
   image: default.jpg
@@ -723,7 +751,9 @@
   description: Entropy, Complexity, Causality.
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: alumni
+  grad_degree: msc
+  grad_year: 2018
 
 - name: Raviteja Chunduru
   image: default.jpg
@@ -773,13 +803,6 @@
   scholar:
   level: msc
 
-- name: Vincent Luczkow
-  image: default.jpg
-  website:
-  description: reinforcement learning, causality
-  supervised_by: Prakash Panangaden, Doina Precup
-  scholar:
-  level: msc
 
 - name: Vishal Jain
   image: default.jpg
