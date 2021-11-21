@@ -1,10 +1,8 @@
-# Reasoning and Learning Lab Website Redesign
+# The Reasoning and Learning Lab Website
 
-[http://rl.cs.mcgill.ca/alpha](http://rl.cs.mcgill.ca/alpha)
+[http://rl.cs.mcgill.ca/](http://rl.cs.mcgill.ca/)
 
-_This webpage is currently work-in-progress, so expect heavy changes_
-
-This repo contains the **alpha build** of the new website redesign. The existing website is hard to maintain as its a plain old html file. The proposed redesign should make website maintenance easy and can be done by anyone in the lab, directly from Github.
+This repo contains the **production build** of the new website redesign (November 2021). The previous website was hard to maintain as its a plain old html file. The new redesign should make website maintenance easy and can be done by anyone in the lab, directly from Github.
 
 - Easy to maintain, as it uses Jekyll to generate webpages
 - Easy to contribute, as you can just write markdown files
@@ -41,7 +39,7 @@ Edit the `_data/professors.yml` file, and add the following information:
   startyear: 2001
 ```
 
-Add the required information. `level` tag accepts either `core` or `affiliate`, which adds the professor's profile in the correct subheaders in [Team page](http://rl.cs.mcgill.ca/alpha/team/).
+Add the required information. `level` tag accepts either `core` or `affiliate`, which adds the professor's profile in the correct subheaders in [Team page](http://rl.cs.mcgill.ca/team/).
 
 #### Landing Page
 
@@ -74,7 +72,7 @@ Edit the `_data/students.yml` file, and add the following information:
   level: phd
 ```
 
-Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alumni` for displaying profiles under the respective subheaders in [Team page](http://rl.cs.mcgill.ca/alpha/team/). For alumni, extra fields `grad_degree`,`grad_year` and `status` are required:
+Add the required information. `level` tag accepts `postdoc`, `phd`, `msc`, `alumni` for displaying profiles under the respective subheaders in [Team page](http://rl.cs.mcgill.ca/team/). For alumni, extra fields `grad_degree`,`grad_year` and `status` are required:
 
 ```yaml
 - name: Ali Emami
@@ -101,7 +99,7 @@ Adding/updating information in this website is trivial. You don't even need to c
 
 ## Deploying
 
-The website currently resides in [http://rl.cs.mcgill.ca/alpha](http://rl.cs.mcgill.ca/alpha). The build and deploy Github actions are in `.github/workflows/jekyll.yml`, which is heavily inspired from this [nice blog post](https://christianspecht.de/2020/05/03/building-and-deploying-a-jekyll-site-via-github-actions/).
+The website currently resides in [http://rl.cs.mcgill.ca/](http://rl.cs.mcgill.ca/). The build and deploy Github actions are in `.github/workflows/jekyll.yml`, which is heavily inspired from this [nice blog post](https://christianspecht.de/2020/05/03/building-and-deploying-a-jekyll-site-via-github-actions/).
 
 ## Contact persons
 
