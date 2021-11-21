@@ -511,30 +511,6 @@
   
 ############################################## Msc ##############################################
 
-- name: Rosie Zhao
-  image: default.jpg
-  website:
-  description: 
-  supervised_by: Prakash Panangaden
-  scholar:
-  level: msc
-  
-- name: Tyle Katsner
-  image: default.jpg
-  website:
-  description: 
-  supervised_by: Prakash Panangaden
-  scholar:
-  level: msc
-
-- name: Andrei Lupu
-  image: andreilupu.jpg
-  website:
-  description: Reinforcement Learning, NLP
-  supervised_by: Doina Precup
-  scholar:
-  level: msc
-
 - name: Akshatha Arodi Nagaraja
   image: default.jpg
   website: https://www.linkedin.com/in/akshatha-arodi-b4aa757/
@@ -555,6 +531,14 @@
   image: default.jpg
   website:
   description: Deep Learning, Reinforcement Learning
+  supervised_by: Doina Precup
+  scholar:
+  level: msc
+  
+- name: Andrei Lupu
+  image: andreilupu.jpg
+  website:
+  description: Reinforcement Learning, NLP
   supervised_by: Doina Precup
   scholar:
   level: msc
@@ -646,6 +630,14 @@
   website: www.etienneden.is
   description: Inductive learning, graph representation learning, relational inference, neural knowledge graphs, language transformers, graph neural networks
   supervised_by: William Hamilton
+  scholar:
+  level: msc
+  
+- name: Gabriela Moisescu-Pareja
+  image: default.jpg
+  website:
+  description: Reinforcement Learning, Deep Learning, Graph Representation Learning, ML Theory
+  supervised_by: Doina Precup
   scholar:
   level: msc
 
@@ -762,6 +754,14 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
+  
+- name: Rosie Zhao
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
+  scholar:
+  level: msc
 
 - name: Sékou-Oumar Kaba
   image: default.jpg
@@ -792,6 +792,14 @@
   website: https://srinivr.github.io/
   description: Reinforcement Learning
   supervised_by: Doina Precup
+  scholar:
+  level: msc
+  
+- name: Tyler Kastner
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
   scholar:
   level: msc
 
