@@ -6,7 +6,7 @@ description: <a href="https://cs.mcgill.ca">School of Computer Science</a>, <a h
 
 profile:
   align: right
-  image: rl-lab-2017.jpeg
+  image: rllab_2018.JPG
   address: <a href="https://maps.google.ca/maps?q=McConnell+Engineering+Bldg,+Montreal,+QC&hl=en&sll=49.891235,-97.15369&sspn=38.84011,93.251953&oq=mc&t=h&hnear=McConnell+Engineering+Bldg,+Montreal,+Quebec+H3A+0E9&z=16&iwloc=A">McConnell Engineering Building</a> (Rooms MC104, MC107, MC108, MC111, MC112), 3480 University St, Montreal, Quebec, H3A 0E9
 
 news: false # includes a list of news items
