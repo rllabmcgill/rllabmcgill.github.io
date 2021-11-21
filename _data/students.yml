@@ -258,7 +258,7 @@
   image: default.jpg
   website: https://joeybose.github.io/Research/
   description: Generative Modelling, Adversarial Machine Learning, and Meta Learning at the intersection of structured data such as language, graphs and images.
-  supervised_by: William Hamilton
+  supervised_by: Prakash Panangaden
   scholar:
   level: phd
 
