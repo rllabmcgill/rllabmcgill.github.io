@@ -67,7 +67,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  For contact information, please consult <a href="https://mila.quebec">https://mila.quebec</a>
+  The source code for this website resides in <a href="https://github.com/rllabmcgill/new_website">https://github.com/rllabmcgill/new_website</a>. For contact information, please consult <a href="https://mila.quebec">https://mila.quebec</a>
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
