@@ -61,7 +61,7 @@
   image: default.jpg
   website:
   description: Deep Learning, Multitask and Transfer Learning, NLP
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -80,7 +80,7 @@
   image: default.jpg
   website:
   description: Natural Language Processing, Deep Learning, Reinforcement Learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -226,7 +226,7 @@
   image: default.jpg
   website: https://ianporada.github.io/
   description: Representation Learning, Natural Language Understanding, Common Sense
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -242,7 +242,7 @@
   image: default.jpg
   website: http://cs.mcgill.ca/~jkabba/
   description: Natural Language  Generation, Computational Pragmatics, Deep Learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -292,7 +292,7 @@
   image: default.jpg
   website: https://kushalarora.github.io
   description: Reinforcement Learning, Manifold Learning, Compositionality and Representation learning for languages, NLP
-  supervised_by: Doina Precup, Jackie Cheung
+  supervised_by: Doina Precup, Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -308,7 +308,7 @@
   image: default.jpg
   website: https://ca.linkedin.com/in/malikaltakrori
   description: Authorship Analysis, Text Mining, Machine Learning, NLP, and Deep Learning
-  supervised_by: Jackie Cheung, Benjamin Fung
+  supervised_by: Jackie Chi Kit Cheung, Benjamin Fung
   scholar:
   level: phd
 
@@ -495,7 +495,7 @@
   image: default.jpg
   website: https://www.cs.mcgill.ca/~ydong26/
   description: NLP, deep learning, reinforcement learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -513,7 +513,7 @@
   image: default.jpg
   website: https://www.linkedin.com/in/akshatha-arodi-b4aa757/
   description: Natural Language Processing, Theory of Mind, Deep learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: msc
 
@@ -537,7 +537,7 @@
   image: default.jpg
   website: https://mirandrom.github.io
   description: Natural Language Processing, Reinforcement Learning
-  supervised_by: Jackie Cheung, Doina Precup
+  supervised_by: Jackie Chi Kit Cheung, Doina Precup
   scholar:
   level: msc
 
@@ -585,7 +585,7 @@
   image: default.jpg
   website:
   description: NLP, natural language reasoning
-  supervised_by: Jackie Cheung, Annie Louis
+  supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
   level: msc
 
@@ -625,7 +625,7 @@
   image: default.jpg
   website: https://www.linkedin.com/in/jiapeng-wu-590014111/
   description: natural languag reasoning, knowledge graph representation
-  supervised_by: Jackie Cheung, William Hamilton
+  supervised_by: Jackie Chi Kit Cheung, William Hamilton
   scholar:
   level: msc
 
@@ -649,7 +649,7 @@
   image: default.jpg
   website: https://www.linkedin.com/in/julesgm/
   description: nlp, unsupervised learning, generative models, transfer learning, transformer model improvements, abstractive question answering
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: msc
 
@@ -673,7 +673,7 @@
   image: default.jpg
   website: https://mgrenander.github.io/
   description: automatic summarization, NLP
-  supervised_by: Jackie Cheung, Annie Louis
+  supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
   level: msc
 
@@ -796,6 +796,7 @@
   website: http://www.cosc.brocku.ca/~aemami/
   status: Associate Professor, Brock University
   scholar:
+  supervised_by: Jackie Chi Kit Cheung
   level: alumni
   grad_degree: PhD
   grad_year: 2021

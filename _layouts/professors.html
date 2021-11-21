@@ -82,23 +82,6 @@ layout: default
 
 </div>
 
-{% assign alumnis = site.data.students | where: "level", "alumni" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'degree_year'  %}
-
-{% if alumnis.size != 0 %}
-
-<div class="row col-md-12 pt-4">
-<h3>Past Students</h3>
-<ul class="col-md-12">
-{% for person in alumnis %}
-
-<li><a href="{{person.website}}">{{person.name}}</a>, {{person.grad_degree}}, {{person.grad_year}}</li>
-
-{% endfor %}
-
-</ul>
-</div>
-{% endif %}
-
 </div>
 
 <div class="col-md-6 pt-4">
@@ -132,4 +115,24 @@ layout: default
 
 
 </div>
+
+{% assign alumnis = site.data.students | where: "level", "alumni" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'degree_year'  %}
+
+{% if alumnis.size != 0 %}
+
+<div class="row col-md-12 pt-4">
+<h3>Past Students</h3>
+<ul class="col-md-12">
+{% for person in alumnis %}
+
+<li><a href="{{person.website}}">{{person.name}}</a>, <em>{{person.grad_degree}}, {{person.grad_year}}</em>, {{person.status}}</li>
+
+{% endfor %}
+
+</ul>
+</div>
+{% endif %}
+
+
+
 </div>
