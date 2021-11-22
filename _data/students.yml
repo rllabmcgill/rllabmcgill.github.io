@@ -265,9 +265,9 @@
   level: phd
 
 - name: Jonathan Lebensold
-  image: default.jpg
+  image: jlebensold.jpg
   website:
-  description: Privacy-preserving algorithms, reinforcement learning, differential privacy, federated learning, transfer learning, healthcare
+  description: Privacy-Preserving ML, Differential Privacy, Reinforcement Learning, Transfer, Healthcare
   supervised_by: Doina Precup, Borja Balle
   scholar:
   level: phd
