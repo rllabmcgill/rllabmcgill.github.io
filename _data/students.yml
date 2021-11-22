@@ -283,7 +283,7 @@
   grad_year: 2021
 
 - name: Khimya Khetarpal
-  image: khimya.jpg
+  image: khimya.png
   website: https://kkhetarpal.github.io/
   description: Artificial Intelligence, Reinforcement Learning, Attention, Abstractions, Continual RL, Cogsci, Robotics
   supervised_by: Doina Precup
