@@ -283,12 +283,12 @@
   grad_year: 2021
 
 - name: Khimya Khetarpal
-  image: default.jpg
+  image: khimya.jpg
   website: https://kkhetarpal.github.io/
   description: Artificial Intelligence, Reinforcement Learning, Attention, Abstractions, Continual RL, Cogsci, Robotics
   supervised_by: Doina Precup
-  scholar:
-  level: phd
+  scholar:https://scholar.google.ca/citations?hl=en&user=VLOUhF0AAAAJ&view_op=list_works&sortby=pubdate
+  level: PhD
 
 - name: Kushal Arora
   image: default.jpg
