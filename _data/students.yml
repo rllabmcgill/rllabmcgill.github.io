@@ -193,11 +193,11 @@
   level: phd
 
 - name: Harry Mingde Zhao
-  image: default.jpg
+  image: harry.jpg
   website: http://mingde.world
-  description: Reinforcement Learning, Meta-Learning
+  description: Reinforcement Learning, Neuro-Inspired AI
   supervised_by: Doina Precup, Yoshua Bengio
-  scholar:
+  scholar: https://scholar.google.com/citations?user=TZh189YAAAAJ&hl=en
   level: phd
 
 - name: Harsh Satija
