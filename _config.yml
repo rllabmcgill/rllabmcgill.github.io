@@ -14,7 +14,7 @@ footer_text: >
 
 icon: # the emoji used as the favicon
 url: http://rl.cs.mcgill.ca # the base hostname & protocol for your site
-baseurl: /alpha/ # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -67,7 +67,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  For contact information, please consult <a href="https://mila.quebec">https://mila.quebec</a>
+  The source code for this website resides in <a href="https://github.com/rllabmcgill/new_website">https://github.com/rllabmcgill/new_website</a>. For contact information, please consult <a href="https://mila.quebec">https://mila.quebec</a>
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -140,7 +140,6 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-target-blank
@@ -150,7 +149,6 @@ plugins:
 
 # Extras
 github: [metadata]
-repository: rllabmcgill/new_website
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

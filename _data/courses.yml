@@ -1,23 +1,65 @@
 - name: "COMP-424: Artificial Intelligence"
   website: http://www.cs.mcgill.ca/~jpineau/comp424/index.html
   description: We will cover selected topics in Artificial Intelligence. We will study modern techniques for computers to make good (in some cases optimal) decisions that are applicable throughout an enormous range of industrial, civil, medical, financial, robotic and information systems. We will not attempt to cover the entire range of AI sub-areas in detail, but will survey several key themes.
+  offered_by: Joelle Pineau
+  semester: Fall 2014
+  active: false
 
 - name: "COMP-551 : Applied Machine Learning"
   website: http://www.cs.mcgill.ca/~jpineau/comp551/index.html
   description: The course will cover selected topics and new developments in data mining and applied machine learning, with a particular emphasis on good methods and practices for effective deployment of real systems. We will study commonly used algorithms and techniques, including linear and logistic regression, clustering, neural networks, support vector machines, decision trees and more. We will also discuss methods to address practical issues such as feature selection and dimensionality reduction, error estimation and empirical validation, algorithm design and parallelization, and handling of large datasets.
+  active: false
+  offered_by: Joelle Pineau
+  semester: Fall 2016
 
 - name: "COMP-652 : Machine Learning"
   website: http://cs.mcgill.ca/~dprecup/courses/ml.html
   description: The goal of this class is to provide an overview of the state-of-art algorithms used in machine learning. The field of machine learning is concerned with the question of how to construct computer programs that improve automatically with experience. In recent years, many successful applications of machine learning have been developed, ranging from data-mining programs that learn to detect fraudulent credit card transactions, to autonomous vehicles that learn to drive on public highways, and computer vision programs that can recognize thousands of different object types. At the same time, there have been important advances in the theory and algorithms that form the foundation of this field. During this course, we will study both the theoretical properties of machine learning algorithms and their practical applications.
+  active: false
+  offered_by: Doina Precup
+  semester: Fall 2018
 
 - name: "COMP-525 : Formal Verification"
   website: https://www.mcgill.ca/study/2014-2015/courses/comp-525
   description: Propositional logic - syntax and semantics, temporal logic, other modal logics, model checking, symbolic model checking, binary decision diagrams, other approaches to formal verification.
+  active: false
+  offered_by: Prakash Panangaden
+  semester: Fall 2014
 
 - name: "COMP-550 : Natural Language Processing"
   website: http://www.cs.mcgill.ca/~jcheung/courses.html
-  description: This course presents an introduction to the computational modelling of natural language. Topics covered include - computational morphology, language modelling, syntactic parsing, lexical and compositional semantics, and discourse analysis. We will consider selected applications such as automatic summarization, machine translation, and speech processing. We will also study machine learning algorithms that are used in natural language processing.
+  description: This course presents an introduction to the computational modelling of natural language. Topics covered include computational morphology, language modelling, syntactic parsing, lexical and compositional semantics, and discourse analysis. We will consider selected applications such as automatic summarization, machine translation, and speech processing. We will also study machine learning algorithms that are used in natural language processing.
+  offered_by: Jackie Chi Kit Cheung
+  active: false
+  semester: Fall 2020
 
 - name: "COMP-767 : Reinforcement Learning"
   website: http://cs.mcgill.ca/~dprecup/
   description: New course available for the Winter 2017 semester.
+  active: false
+  offered_by: Doina Precup
+  semester: Fall 2020
+
+- name: "COMP 579 Reinforcement Learning"
+  website: https://www.mcgill.ca/study/2021-2022/courses/comp-579
+  description: |
+    Computer Science (Sci) : Bandit algorithms, finite Markov decision processes, dynamic programming, Monte-Carlo Methods, temporal-difference learning, bootstrapping, planning, approximation methods, on versus off policy learning, policy gradient methods temporal abstraction and inverse reinforcement learning.
+  active: true
+  offered_by: Doina Precup
+  semester: Winter 2022
+
+- name: "COMP 551 – Applied Machine Learning"
+  website: http://www.reirab.com/comp551.html
+  description: |
+    This course covers a selected set of topics in machine learning and data mining, with an emphasis on good methods and practices for deployment of real systems. The majority of sections are related to commonly used supervised learning techniques, and to a lesser degree unsupervised methods. This includes fundamentals of algorithms on linear and logistic regression, decision trees, support vector machines, clustering, neural networks, as well as key techniques for feature selection and dimensionality reduction, error estimation and empirical validation.
+  offered_by: Reihaneh Rabbany
+  semester: Winter 2022
+  active: true
+
+- name: "COMP 599 – Natural Language Understanding with Deep Learning"
+  website: https://www.mcgill.ca/study/2021-2022/courses/comp-599
+  description: |
+    The field of natural language processing (NLP) has seen multiple paradigm shifts over decades, from symbolic AI to statistical methods to deep learning. We review this shift through the lens of natural language understanding (NLU), a branch of NLP that deals with “meaning”. We start with what is meaning and what does it mean for a machine to understand language? We explore how to represent the meaning of words, phrases, sentences and discourse. We then dive into many useful NLU applications.
+  active: true
+  semester: Winter 2022
+  offered_by: Siva Reddy

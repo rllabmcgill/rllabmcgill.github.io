@@ -19,7 +19,7 @@
   dblp: http://dblp.uni-trier.de/pers/xs/p/Precup:Doina.rss
   startyear: 2001
   bio: |
-    Doina Precup teaches at McGill while conducting fundamental research on reinforcement learning, working in particular on AI applications in areas that have a social impact, such as health care. She’s interested in machine decision-making in situations where uncertainty is high. She is a senior fellow of the Canadian Institute for Advanced Research, fellow of the Association for the Advancement of Artificial Intelligence and she also heads the Montreal office of [Deepmind](https://deepmind.com/).
+    Doina Precup is an associate professor at McGill University and head of the Montreal office of [Deepmind](https://deepmind.com). She conducts fundamental research on reinforcement learning, working in particular on AI applications in areas that have a social impact, such as health care. She’s interested in machine decision-making in situations where uncertainty is high. She is a senior fellow of the Canadian Institute for Advanced Research, fellow of the Association for the Advancement of Artificial Intelligence.
 
 - name: Jackie Chi Kit Cheung
   image: jcheung.jpg
@@ -30,7 +30,7 @@
   dblp: https://dblp.org/pid/00/9012.rss
   startyear: 2015
   bio: |
-    Jackie Chi Kit Cheung is an Assistant Professor in McGill’s School of Computer Science, where he co-directs the Reasoning and Learning Lab. He obtained his PhD from the University of Toronto and joined McGill in 2015. His research group focuses on developing computational methods for understanding text and for generating language that is fluent and appropriate to the context. Several current projects include extracting events from text, automatic summarization, and leveraging external knowledge for language understanding. Dr. Cheung is a member of the Mila Research Institute, and is an academic advisor for Borealis AI.
+    Jackie Chi Kit Cheung is an Assistant Professor in McGill’s School of Computer Science, where he co-directs the Reasoning and Learning Lab. He obtained his PhD from the University of Toronto and joined McGill in 2015. His research group focuses on developing computational methods for understanding text and for generating language that is fluent and appropriate to the context. Several current projects include extracting events from text, automatic summarization, and leveraging external knowledge for language understanding. Dr. Cheung is a member of the Mila Research Institute, and is an academic advisor for MSR Montreal.
   email: jcheung @ cs.mcgill.ca
 
 - name: Prakash Panangaden

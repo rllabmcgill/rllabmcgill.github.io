@@ -61,7 +61,7 @@
   image: default.jpg
   website:
   description: Deep Learning, Multitask and Transfer Learning, NLP
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -74,12 +74,13 @@
   level: alumni
   grad_degree: PhD
   grad_year: 2021
+  status: Assistant Professor @ UT Austin
 
 - name: Andre Cianflone
   image: default.jpg
   website:
   description: Natural Language Processing, Deep Learning, Reinforcement Learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -179,7 +180,9 @@
   description: Category theory, Probabilities, Markov Processes, Quantitative Equational Logic
   supervised_by: Prakash Panangaden
   scholar:
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2021
 
 - name: Haque Ishfaq
   image: default.jpg
@@ -225,7 +228,7 @@
   image: default.jpg
   website: https://ianporada.github.io/
   description: Representation Learning, Natural Language Understanding, Common Sense
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -241,7 +244,7 @@
   image: default.jpg
   website: http://cs.mcgill.ca/~jkabba/
   description: Natural Language  Generation, Computational Pragmatics, Deep Learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -257,7 +260,7 @@
   image: default.jpg
   website: https://joeybose.github.io/Research/
   description: Generative Modelling, Adversarial Machine Learning, and Meta Learning at the intersection of structured data such as language, graphs and images.
-  supervised_by: William Hamilton
+  supervised_by: Prakash Panangaden
   scholar:
   level: phd
 
@@ -291,7 +294,7 @@
   image: default.jpg
   website: https://kushalarora.github.io
   description: Reinforcement Learning, Manifold Learning, Compositionality and Representation learning for languages, NLP
-  supervised_by: Doina Precup, Jackie Cheung
+  supervised_by: Doina Precup, Jackie Chi Kit Cheung
   scholar:
   level: phd
 
@@ -299,7 +302,7 @@
   image: default.jpg
   website:
   description: Analysis of Boolean functions, Computational Complexity, Combinatorics
-  supervised_by: Prakash Panangaden, Hamed Hatami
+  supervised_by: Hamed Hatami
   scholar:
   level: phd
 
@@ -307,7 +310,7 @@
   image: default.jpg
   website: https://ca.linkedin.com/in/malikaltakrori
   description: Authorship Analysis, Text Mining, Machine Learning, NLP, and Deep Learning
-  supervised_by: Jackie Cheung, Benjamin Fung
+  supervised_by: Jackie Chi Kit Cheung, Benjamin Fung
   scholar:
   level: phd
 
@@ -376,6 +379,7 @@
   level: alumni
   grad_degree: MSc
   grad_year: 2018
+  status: PhD student @ Mila / Polytechnique Montreal
 
 - name: Nishanth Anand
   image: default.jpg
@@ -493,25 +497,25 @@
   image: default.jpg
   website: https://www.cs.mcgill.ca/~ydong26/
   description: NLP, deep learning, reinforcement learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: phd
 
-############################################## Msc ##############################################
-
-- name: Andrei Lupu
-  image: andreilupu.jpg
+- name: Vincent Luczkow
+  image: default.jpg
   website:
-  description: Reinforcement Learning, NLP
-  supervised_by: Doina Precup
+  description: reinforcement learning, causality
+  supervised_by: Prakash Panangaden, Doina Precup
   scholar:
-  level: msc
+  level: phd
+  
+############################################## Msc ##############################################
 
 - name: Akshatha Arodi Nagaraja
   image: default.jpg
   website: https://www.linkedin.com/in/akshatha-arodi-b4aa757/
   description: Natural Language Processing, Theory of Mind, Deep learning
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: msc
 
@@ -530,12 +534,20 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
+  
+- name: Andrei Lupu
+  image: andreilupu.jpg
+  website:
+  description: Reinforcement Learning, NLP
+  supervised_by: Doina Precup
+  scholar:
+  level: msc
 
 - name: Andrei Mircea Romascanu
   image: default.jpg
   website: https://mirandrom.github.io
   description: Natural Language Processing, Reinforcement Learning
-  supervised_by: Jackie Cheung, Doina Precup
+  supervised_by: Jackie Chi Kit Cheung, Doina Precup
   scholar:
   level: msc
 
@@ -553,13 +565,23 @@
   description: Learning Automata, weighted automata
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
 
 - name: Barleen Kaur
   image: default.jpg
   website: http://www.cim.mcgill.ca/~barleenk/
   description: Machine learning, deep learning, transfer learning, generative models
   supervised_by: Doina Precup, Tal Arbel
+  scholar:
+  level: msc
+
+- name: Cesare Spinoso-Di Piano
+  image: cspino.png
+  website:
+  description: Biomedical natural language processing
+  supervised_by: Jackie Chi Kit Cheung, Samira Rahimi
   scholar:
   level: msc
 
@@ -583,7 +605,7 @@
   image: default.jpg
   website:
   description: NLP, natural language reasoning
-  supervised_by: Jackie Cheung, Annie Louis
+  supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
   level: msc
 
@@ -610,6 +632,14 @@
   supervised_by: William Hamilton
   scholar:
   level: msc
+  
+- name: Gabriela Moisescu-Pareja
+  image: default.jpg
+  website:
+  description: Reinforcement Learning, Deep Learning, Graph Representation Learning, ML Theory
+  supervised_by: Doina Precup
+  scholar:
+  level: msc
 
 - name: Gandharv Patil
   image: default.jpg
@@ -623,7 +653,7 @@
   image: default.jpg
   website: https://www.linkedin.com/in/jiapeng-wu-590014111/
   description: natural languag reasoning, knowledge graph representation
-  supervised_by: Jackie Cheung, William Hamilton
+  supervised_by: Jackie Chi Kit Cheung, William Hamilton
   scholar:
   level: msc
 
@@ -647,7 +677,7 @@
   image: default.jpg
   website: https://www.linkedin.com/in/julesgm/
   description: nlp, unsupervised learning, generative models, transfer learning, transformer model improvements, abstractive question answering
-  supervised_by: Jackie Cheung
+  supervised_by: Jackie Chi Kit Cheung
   scholar:
   level: msc
 
@@ -671,7 +701,7 @@
   image: default.jpg
   website: https://mgrenander.github.io/
   description: automatic summarization, NLP
-  supervised_by: Jackie Cheung, Annie Louis
+  supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar:
   level: msc
 
@@ -713,13 +743,23 @@
   description: Entropy, Complexity, Causality.
   supervised_by: Prakash Panangaden
   scholar:
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2018
 
 - name: Raviteja Chunduru
   image: default.jpg
   website: https://ravitej310.github.io/
   description: Hierarchical RL, representation learning
   supervised_by: Doina Precup
+  scholar:
+  level: msc
+  
+- name: Rosie Zhao
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
   scholar:
   level: msc
 
@@ -754,6 +794,14 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
+  
+- name: Tyler Kastner
+  image: default.jpg
+  website:
+  description: 
+  supervised_by: Prakash Panangaden
+  scholar:
+  level: msc
 
 - name: Vaibhav Adlakha
   image: default.jpg
@@ -763,13 +811,6 @@
   scholar:
   level: msc
 
-- name: Vincent Luczkow
-  image: default.jpg
-  website:
-  description: reinforcement learning, causality
-  supervised_by: Prakash Panangaden, Doina Precup
-  scholar:
-  level: msc
 
 - name: Vishal Jain
   image: default.jpg
@@ -792,8 +833,9 @@
 - name: Ali Emami
   image: aliemami.webp
   website: http://www.cosc.brocku.ca/~aemami/
-  description: Associate Professor, Brock University
+  status: Assistant Professor, Brock University
   scholar:
+  supervised_by: Jackie Chi Kit Cheung
   level: alumni
   grad_degree: PhD
   grad_year: 2021
@@ -801,7 +843,7 @@
 - name: Ryan Lowe
   image:
   website: https://www.cs.mcgill.ca/~rlowe1/
-  description: Member of Technical Staff, OpenAI
+  status: Member of Technical Staff, OpenAI
   scholar:
   level: alumni
   grad_degree: PhD
@@ -810,7 +852,7 @@
 - name: Zafarali Ahmed
   image:
   website: http://www.zafarali.me/
-  description: Research Engineer, DeepMind
+  status: Research Engineer, DeepMind
   scholar:
   level: alumni
   grad_degree: MSc
@@ -819,7 +861,7 @@
 - name: Pierre-Luc Bacon
   image:
   website: http://pierrelucbacon.com/
-  description: Assistant Professor at University of Montreal
+  status: Assistant Professor at University of Montreal
   scholar:
   level: alumni
   grad_degree: PhD
@@ -828,7 +870,7 @@
 - name: Audrey Durand
   image:
   website: https://audurand.wordpress.com
-  description: Assistant Professor at University of Laval
+  status: Assistant Professor at University of Laval
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -837,7 +879,7 @@
 - name: Guillaume Rabusseau
   image:
   website: https://www-labs.iro.umontreal.ca/~grabus/
-  description: Assistant Professor at University of Montreal
+  status: Assistant Professor at University of Montreal
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -846,7 +888,7 @@
 - name: Herke Van Hoof
   image:
   website: https://staff.fnwi.uva.nl/h.c.vanhoof/homepage/
-  description: Assistant Professor at University of Amsterdam
+  status: Assistant Professor at University of Amsterdam
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -855,7 +897,7 @@
 - name: Negar Ghourchian
   image:
   website: http://www.aerial.ai/about-us/
-  description: Research Scientist at Aerial.ai
+  status: Research Scientist at Aerial.ai
   scholar:
   level: alumni
   grad_degree: PhD
@@ -864,7 +906,7 @@
 - name: Boyu Wang
   image:
   website: https://sites.google.com/site/borriewang/
-  description: Postdoc at Princeton Neuroscience Institute
+  status: Postdoc at Princeton Neuroscience Institute
   scholar:
   level: alumni
   grad_degree: PhD
@@ -873,7 +915,7 @@
 - name: Laurent Charlin
   image:
   website: http://www.cs.toronto.edu/~lcharlin/
-  description: Assistant Professor of statistics at HEC Montréal
+  status: Assistant Professor of statistics at HEC Montréal
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -882,7 +924,7 @@
 - name: Lucas Lehnert
   image:
   website:
-  description: Ph.D. student at Brown University
+  status: Ph.D. student at Brown University
   scholar:
   level: alumni
   grad_degree: MSc
@@ -891,7 +933,7 @@
 - name: Bénédicte Leonard-Cannon
   image:
   website:
-  description: Software Engineer at Microsoft
+  status: Software Engineer at Microsoft
   scholar:
   level: alumni
   grad_degree: MSc
@@ -900,7 +942,7 @@
 - name: Gheorghe Comanici
   image:
   website: http://www.cs.mcgill.ca/~gcoman/
-  description: Software Engineer at Google Montreal
+  status: Software Engineer at Google Montreal
   scholar:
   level: alumni
   grad_degree: PhD
@@ -909,7 +951,7 @@
 - name: Borja Balle
   image:
   website: http://www.cs.upc.edu/~bballe/
-  description: Lecturer at  Lancaster University
+  status: Lecturer at  Lancaster University
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -918,7 +960,7 @@
 - name: Melanie Lyman-Abramovitch
   image:
   website:
-  description:
+  status:
   scholar:
   level: alumni
   grad_degree: MSc
@@ -927,7 +969,7 @@
 - name: Andrew Sutcliffe
   image:
   website: #
-  description:
+  status:
   scholar:
   level: alumni
   grad_degree: MSc
@@ -936,7 +978,7 @@
 - name: Gabriel Forgues
   image:
   website:
-  description: Software Engineer at Facebook Seattle
+  status: Software Engineer at Facebook Seattle
   scholar:
   level: alumni
   grad_degree: MSc
@@ -945,7 +987,7 @@
 - name: Angus Leigh
   image:
   website: http://www.cs.mcgill.ca/~aleigh1/
-  description: Software Engineer at Google X
+  status: Software Engineer at Google X
   scholar:
   level: alumni
   grad_degree: MSc
@@ -954,7 +996,7 @@
 - name: Nastaran Jafarpour
   image:
   website: https://www.linkedin.com/in/nastaranj
-  description: Data Scientist at Via Science, Montreal
+  status: Data Scientist at Via Science, Montreal
   scholar:
   level: alumni
   grad_degree: PhD
@@ -963,7 +1005,7 @@
 - name: Jinxu Jia
   image:
   website: http://cs.mcgill.ca/~jjia3/
-  description: Software Engineer at Microsoft Seattle
+  status: Software Engineer at Microsoft Seattle
   scholar:
   level: alumni
   grad_degree: MSc
@@ -972,7 +1014,7 @@
 - name: Hiu Kim Yuen
   image:
   website: http://hiukim.com/
-  description: Software Engineer at LoopPulse, Hong Kong
+  status: Software Engineer at LoopPulse, Hong Kong
   scholar:
   level: alumni
   grad_degree: MSc
@@ -981,7 +1023,7 @@
 - name: Yuri Grinberg
   image:
   website: http://www.cs.mcgill.ca/~ygrinb/
-  description: National Research Council Canada
+  status: National Research Council Canada
   scholar:
   level: alumni
   grad_degree: PhD
@@ -990,7 +1032,7 @@
 - name: Clement Gehring
   image:
   website: http://www.cs.mcgill.ca/~cgehri/
-  description: Ph.D. student at MIT
+  status: Ph.D. student at MIT
   scholar:
   level: alumni
   grad_degree: MSc
@@ -999,7 +1041,7 @@
 - name: Robert D. Vincent
   image:
   website: http://www.cs.mcgill.ca/~rvince3/
-  description: Teacher at Vanier College
+  status: Teacher at Vanier College
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1008,7 +1050,7 @@
 - name: Hang Ma
   image:
   website: http://cs.mcgill.ca/~hma41/
-  description: Ph.D. student at University of Southern California
+  status: Ph.D. student at University of Southern California
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1017,7 +1059,7 @@
 - name: Mahdi Milani Fard
   image:
   website: http://www.cs.mcgill.ca/~mmilan1/
-  description: Software Engineer at Google Mountain View
+  status: Software Engineer at Google Mountain View
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1026,7 +1068,7 @@
 - name: Ouais Alsharif
   image:
   website: http://www.cs.mcgill.ca/~oalsha1/
-  description: Software Engineer at Google Mountain View
+  status: Software Engineer at Google Mountain View
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1035,7 +1077,7 @@
 - name: Will Hamilton
   image:
   website: http://www.cs.mcgill.ca/~wlh/
-  description: Senior Quantitative Researcher at Citadel LLC.
+  status: Senior Quantitative Researcher at Citadel LLC.
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1044,7 +1086,7 @@
 - name: Amir-massoud Farahmand
   image:
   website: http://academic.sologen.net
-  description: Machine Learning Researcher at Mitsubishi Electric Research Laboratories
+  status: Machine Learning Researcher at Mitsubishi Electric Research Laboratories
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -1053,7 +1095,7 @@
 - name: Beomjoon Kim
   image:
   website: https://sites.google.com/site/beomjoonkim8/
-  description: Ph.D. student at MIT
+  status: Ph.D. student at MIT
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1062,7 +1104,7 @@
 - name: Andre M.S. Barreto
   image:
   website: http://www.cs.mcgill.ca/~amsb/
-  description: Research Scientist at Google Deepmind
+  status: Research Scientist at Google Deepmind
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -1071,7 +1113,7 @@
 - name: Athena  K.  Moghaddam
   image:
   website: http://www.cs.mcgill.ca/~akarde/
-  description: Software Engineer at Facebook Menlo Park
+  status: Software Engineer at Facebook Menlo Park
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1080,7 +1122,7 @@
 - name: Sylvie C.W. Ong
   image:
   website: http://www.cs.mcgill.ca/~song/
-  description: Software Engineer at Nuance Communications Montreal
+  status: Software Engineer at Nuance Communications Montreal
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -1089,7 +1131,7 @@
 - name: Guillaume Saulnier Comte
   image:
   website: http://www.cs.mcgill.ca/~gsauln/
-  description: Software Engineer at Google Seattle
+  status: Software Engineer at Google Seattle
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1098,7 +1140,7 @@
 - name: Danesh Ghafoorzadehnobar
   image:
   website:
-  description: Software Engineer at Microsoft in Redmond, Washington
+  status: Software Engineer at Microsoft in Redmond, Washington
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1107,7 +1149,7 @@
 - name: Cosmin Paduraru
   image:
   website: http://www.cs.mcgill.ca/~cpadur/
-  description: Postdoctoral fellow in COSMO Lab
+  status: Postdoctoral fellow in COSMO Lab
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1116,7 +1158,7 @@
 - name: Gheorghita Catalin Bordianu
   image:
   website: https://www.yourextralife.com
-  description: Software Engineer at 500px
+  status: Software Engineer at 500px
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1125,7 +1167,7 @@
 - name: Jordan Frank
   image:
   website: http://www.cs.mcgill.ca/~jfrank8/
-  description: Software Engineer at Facebook Seattle
+  status: Software Engineer at Facebook Seattle
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1134,7 +1176,7 @@
 - name: Pablo Samuel Castro
   image:
   website: http://www.cs.mcgill.ca/~pcastr/
-  description: Software Engineer at Google Montreal
+  status: Software Engineer at Google Montreal
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1143,7 +1185,7 @@
 - name: Amin Atrash
   image:
   website: http://robotics.usc.edu/~aatrash/
-  description: Postdoc at the School of Computer Science at USC
+  status: Postdoc at the School of Computer Science at USC
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1152,7 +1194,7 @@
 - name: Shaowei Png
   image:
   website: http://www.cs.mcgill.ca/~spng/
-  description: Software Engineer in Google Seattle/Kirkland
+  status: Software Engineer in Google Seattle/Kirkland
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1161,7 +1203,7 @@
 - name: Susan Shortreed
   image:
   website: http://www.grouphealthresearch.org/faculty/profiles/shortreed-susan-m.aspx
-  description: Assistant Scientific Investigator at Group Health Research Institute
+  status: Assistant Scientific Investigator at Group Health Research Institute
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -1170,7 +1212,7 @@
 - name: Keith Bush
   image:
   website: http://www.cs.mcgill.ca/~kbush/
-  description: Assistant Professor of Computer Science, University of Arkansas at Little Rock
+  status: Assistant Professor of Computer Science, University of Arkansas at Little Rock
   scholar:
   level: alumni
   grad_degree: Postdoc
@@ -1179,7 +1221,7 @@
 - name: Julien Villemure
   image:
   website:
-  description:
+  status:
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1188,7 +1230,7 @@
 - name: Arthur Guez
   image:
   website: http://www.cs.mcgill.ca/~aguez/
-  description: Research Scientist at Google DeepMind
+  status: Research Scientist at Google DeepMind
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1197,7 +1239,7 @@
 - name: Ryan Faulkner
   image:
   website: http://www.cs.mcgill.ca/~rfaulk/
-  description: Research Scientist at Google DeepMind
+  status: Research Scientist at Google DeepMind
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1206,7 +1248,7 @@
 - name: Robert Kaplow
   image:
   website: http://www.cs.mcgill.ca/~rkaplo/
-  description: Software Engineer at Google Montreal
+  status: Software Engineer at Google Montreal
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1215,7 +1257,7 @@
 - name: Robert West
   image:
   website: http://cs.stanford.edu/~west1/
-  description: Ph.D. student, Stanford University
+  status: Ph.D. student, Stanford University
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1224,7 +1266,7 @@
 - name: Monica Dinculescu
   image:
   website: http://www.cs.mcgill.ca/~mdincu/
-  description: Software Engineer at Google Mountain View
+  status: Software Engineer at Google Mountain View
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1233,7 +1275,7 @@
 - name: Stéphane Ross
   image:
   website: http://www.cs.cmu.edu/~sross1/
-  description: Software Engineer at Google X
+  status: Software Engineer at Google X
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1242,7 +1284,7 @@
 - name: Masoumeh Izadi
   image:
   website: http://www.cs.mcgill.ca/~mtabae/
-  description: R&amp;D manager in sport analytics at Broadcast Solutions in Singapore
+  status: R&amp;D manager in sport analytics at Broadcast Solutions in Singapore
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1251,7 +1293,7 @@
 - name: Marc Bellemare
   image:
   website: http://webdocs.cs.ualberta.ca/~mg17/
-  description: Research Scientist at Google DeepMind
+  status: Research Scientist at Google DeepMind
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1260,7 +1302,7 @@
 - name: Bohdana Ratitch
   image:
   website: https://www.linkedin.com/in/bohdana-ratitch-b20403
-  description: Scientific Advisor at Quintiles
+  status: Scientific Advisor at Quintiles
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1269,7 +1311,7 @@
 - name: Danielle Azar
   image:
   website: http://cs.mcgill.ca/~dazar/
-  description: Lebanese American University
+  status: Lebanese American University
   scholar:
   level: alumni
   grad_degree: PhD
@@ -1278,7 +1320,7 @@
 - name: Martin Stolle
   image:
   website: http://dblp.uni-trier.de/pers/hd/s/Stolle:Martin
-  description: Software Engineer at Google Zurich
+  status: Software Engineer at Google Zurich
   scholar:
   level: alumni
   grad_degree: MSc
@@ -1287,7 +1329,7 @@
 - name: Francois Rivest
   image:
   website: http://www.rmcc-cmrc.ca/en/mathematics-and-computer-science/dr-francois-rivest
-  description: Assistant Professor at the Royal Military College of Canada
+  status: Assistant Professor at the Royal Military College of Canada
   scholar:
   level: alumni
   grad_degree: MSc

@@ -30,23 +30,37 @@ layout: default
       {% include news.html %}
     {% endif %}
 
+    <div class="row">
+    <div class="col-md-6">
+    <a class="twitter-timeline" data-height="600" data-dnt="true" data-theme="light" href="https://twitter.com/rllabmcgill?ref_src=twsrc%5Etfw">Tweets by rllabmcgill</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <div class="col-md-6">
     {% if page.profile.address %}
     <div class="row">
-        <div class="address text-center">
+        <div class="address text-left">
           {{ page.profile.address }}
         </div>
     </div>
     {% endif %}
-
     {% if page.social %}
     <div class="social" style="padding-top:30px">
-      <div class="contact-icons row justify-content-sm-center">
-        <img class="col-sm-2 img-fluid" src="{{'/assets/img/mila-purple.png' | relative_url }}">
-        <img class="col-sm-3 img-fluid" src="{{'/assets/img/mcgill-red.svg' | relative_url }}">
+      <div class="contact-icons">
+        <div class="row justify-content-sm-center">
+        <a class="col-sm-6" href="https://cs.mcgill.ca"><img class="img-fluid" src="{{'/assets/img/mcgill-red.svg' | relative_url }}"></a>
+        </div>
+        <div class="row justify-content-sm-center">
+        <a class="col-sm-5" href="https://mila.quebec">
+        <img class="img-fluid" src="{{'/assets/img/mila-purple.png' | relative_url }}">
+        </a>
+        </div>
       </div>
       <div class="contact-note" style="padding-top:10px">{{ site.contact_note }}</div>
     </div>
     {% endif %}
+    </div>
+    </div>
+
+
   </article>
 
 </div>

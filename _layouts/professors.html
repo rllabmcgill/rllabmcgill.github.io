@@ -22,6 +22,8 @@ layout: default
     </div>
 </div>
 
+<div class="row">
+
 {% assign postdocs = site.data.students | where: "level", "postdoc" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
 
 {% assign phds = site.data.students | where: "level", "phd" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
@@ -29,6 +31,8 @@ layout: default
 {% assign mscs = site.data.students | where: "level", "msc" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'name' %}
 
 {% if postdocs.size !=0 or phds.size !=0 or mscs.size !=0 %}
+
+<div class="col-md-6">
 
 <div class="row col-md-12 pt-4">
 <h3>Students</h3>
@@ -71,10 +75,44 @@ layout: default
 </ul>
 
 {% endif %}
+<!--end msc-->
+
+{% endif %}
+<!--end students-->
 
 </div>
 
+</div>
+
+<div class="col-md-6 pt-4">
+
+{% assign courses = site.data.courses | where: "active", true | where_exp: "item", "item.offered_by contains page.title" | sort: 'semester' %}
+
+{% if courses.size != 0 %}
+
+<h3>Active Courses</h3>
+<ul class="col-md-12">
+{% for course in courses %}
+    <li><a href="{{course.website}}">{{course.name}}</a>, {{course.semester}}</li>
+{% endfor %}
+</ul>
+
 {% endif %}
+
+{% assign courses = site.data.courses | where: "active", false | where_exp: "item", "item.offered_by contains page.title" | sort: 'semester' %}
+
+{% if courses.size != 0 %}
+
+<h3>Past Courses</h3>
+<ul class="col-md-12">
+{% for course in courses %}
+    <li><a href="{{course.website}}">{{course.name}}</a>, {{course.semester}}</li>
+{% endfor %}
+</ul>
+
+{% endif %}
+
+
 
 </div>
 
@@ -87,10 +125,14 @@ layout: default
 <ul class="col-md-12">
 {% for person in alumnis %}
 
-<li><a href="{{person.website}}">{{person.name}}</a>, {{person.grad_degree}}, {{person.grad_year}}</li>
+<li><a href="{{person.website}}">{{person.name}}</a>, <em>{{person.grad_degree}}, {{person.grad_year}}</em>, {{person.status}}</li>
 
 {% endfor %}
 
 </ul>
 </div>
 {% endif %}
+
+
+
+</div>
