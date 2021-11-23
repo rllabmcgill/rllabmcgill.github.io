@@ -116,7 +116,7 @@ layout: default
 
 </div>
 
-{% assign alumnis = site.data.students | where: "level", "alumni" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'grad_year'  %}
+{% assign alumnis = site.data.students | where: "level", "alumni" | where_exp: "item", "item.supervised_by contains page.title" | sort: 'grad_year' | reverse  %}
 
 {% if alumnis.size != 0 %}
 
