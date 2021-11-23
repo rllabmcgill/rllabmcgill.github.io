@@ -505,10 +505,21 @@
   image: default.jpg
   website:
   description: reinforcement learning, causality
-  supervised_by: Prakash Panangaden, Doina Precup
+  supervised_by: Prakash Panangaden
+  scholar:
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: PhD student at McGill University
+
+- name: Vincent Luczkow
+  image: default.jpg
+  website:
+  description: reinforcement learning, causality
+  supervised_by: Doina Precup
   scholar:
   level: phd
-  
+
 ############################################## Msc ##############################################
 
 - name: Akshatha Arodi Nagaraja
@@ -534,7 +545,7 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
-  
+
 - name: Andrei Lupu
   image: andreilupu.jpg
   website:
@@ -632,7 +643,7 @@
   supervised_by: William Hamilton
   scholar:
   level: msc
-  
+
 - name: Gabriela Moisescu-Pareja
   image: default.jpg
   website:
@@ -743,6 +754,7 @@
   description: Entropy, Complexity, Causality.
   supervised_by: Prakash Panangaden
   scholar:
+  status: PhD at Universite de Montreal
   level: alumni
   grad_degree: MSc
   grad_year: 2018
@@ -754,11 +766,11 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
-  
+
 - name: Rosie Zhao
   image: default.jpg
   website:
-  description: 
+  description:
   supervised_by: Prakash Panangaden
   scholar:
   level: msc
@@ -794,11 +806,11 @@
   supervised_by: Doina Precup
   scholar:
   level: msc
-  
+
 - name: Tyler Kastner
   image: default.jpg
   website:
-  description: 
+  description:
   supervised_by: Prakash Panangaden
   scholar:
   level: msc
@@ -810,7 +822,6 @@
   supervised_by: Siva Reddy
   scholar:
   level: msc
-
 
 - name: Vishal Jain
   image: default.jpg
@@ -1334,3 +1345,123 @@
   level: alumni
   grad_degree: MSc
   grad_year: 2002
+
+- name: Norm Ferns
+  image:
+  website:
+  status: Research Scientist, SportLogic
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2008
+
+- name: Josée Desharnais
+  image:
+  website:
+  status: Full Professor, University of Laval
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: PhD
+  grad_year: 1999
+
+- name: Alika Utepova
+  image:
+  website:
+  status:
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+
+- name: Philip Amortila
+  image:
+  website:
+  status: PhD student at University of Illinois
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2019
+
+- name: Pascale Gourdeau
+  image:
+  website:
+  status: DPhil student at University of Oxford
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2017
+
+- name: Caitlin Philips
+  image:
+  website:
+  status: Google Montreal
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2009
+
+- name: Philippe Chaput
+  image:
+  website:
+  status: Lecturer, John Abbott College
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2009
+
+- name: Sophia Knight
+  image:
+  website:
+  status: Assistant Professor, University of Minnesota Duluth
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2009
+
+- name: William Renner
+  image:
+  website:
+  status:
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2002
+
+- name: Jacob Eliosoff
+  image:
+  website:
+  status:
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2003
+
+- name: Jonathan Taylor
+  image:
+  website:
+  status:
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2008
+
+- name: Gavin McCracken
+  image:
+  website:
+  status:
+  scholar:
+  supervised_by: Prakash Panangaden
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
