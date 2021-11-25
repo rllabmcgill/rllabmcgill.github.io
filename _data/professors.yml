@@ -46,10 +46,12 @@
 
 - name: Reihaneh Rabbany
   image: rraba.png
-  website: https://reirab.com/
+  website: http://www.reirab.com/
   description: Machine Learning, Knowledge Graphs
   scholar:
   level: core
+  dblp: https://dblp.uni-trier.de/pid/94/9024.rss
+  startyear: 2018
   bio: |
     Reihaneh is an Assistant Professor at the School of Computer Science, McGill University. Before that, she was a Postdoctoral fellow at the School of Computer Science, Carnegie Mellon University. She completed her Ph.D. in Computing Science Department at the University of Alberta. Her research is at the intersection of network science, data mining and machine learning, with a focus on analyzing real-world interconnected data, and social good applications.
 
