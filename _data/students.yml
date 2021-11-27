@@ -99,6 +99,14 @@
   supervised_by: Doina Precup
   scholar:
   level: phd
+  
+- name: Aarash Feizi
+  image: aarashfeizi.jpeg
+  website:
+  description: Deep Learning, Vision, Graph Representation Learning
+  supervised_by: Reihaneh Rabbany, Adriana Romero Soriano
+  scholar:
+  level: phd
 
 - name: Bogdan Mazoure
   image: default.jpg
