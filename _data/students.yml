@@ -635,7 +635,7 @@
 
 - name: Cesare Spinoso-Di Piano
   image: cspino.png
-  website: null
+  website: https://cesare-spinoso.github.io/
   description: Biomedical natural language processing
   supervised_by: Jackie Chi Kit Cheung, Samira Rahimi
   scholar: null
