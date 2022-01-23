@@ -543,6 +543,14 @@
   supervised_by: Jackie Chi Kit Cheung
   scholar: null
   level: phd
+  
+- name: Meng Cao
+  image: meng-cao-profile.jpg
+  website: https://mcao516.github.io/
+  description: NLP, Deep Learning
+  supervised_by: Jackie Chi Kit Cheung
+  scholar: null
+  level: phd
 
 - name: Vincent Luczkow
   image: default.jpg
