@@ -903,7 +903,7 @@
   level: msc
 
 - name: Amirhossein Kazemnejad
-  image: amirhossein_kazemnejad.png
+  image: amirhossein_kazemnejad.jpg
   website: https://kazemnejad.com/
   description: NLP, Out-of-Distribution Generalization, Contrastive Representation Learning
   supervised_by: Siva Reddy
