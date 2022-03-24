@@ -902,6 +902,14 @@
   scholar: null
   level: msc
 
+- name: Amirhossein Kazemnejad
+  image: amirhossein_kazemnejad.jpg
+  website: https://kazemnejad.com/
+  description: NLP, Out-of-Distribution Generalization, Contrastive Representation Learning
+  supervised_by: Siva Reddy
+  scholar: null
+  level: msc
+
 - name: Ximeng Mao
   image: 9C8A1679-portrait-509x676.jpg
   website: null
