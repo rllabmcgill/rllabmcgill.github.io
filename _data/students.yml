@@ -773,6 +773,14 @@
   scholar: null
   level: msc
 
+- name: Martin Pömsl
+  image: mpoemsl.png
+  website: https://mpoemsl.github.io
+  description: Machine Learning, Natural Language Understanding
+  supervised_by: Jackie Chi Kit Cheung
+  scholar: null
+  level: msc
+
 - name: Matt Grenander
   image: Matt-Grenander-Head-Shot-509x676.jpg
   website: https://mgrenander.github.io/
