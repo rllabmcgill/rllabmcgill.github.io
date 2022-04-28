@@ -543,7 +543,7 @@
   supervised_by: Jackie Chi Kit Cheung
   scholar: null
   level: phd
-  
+
 - name: Meng Cao
   image: meng-cao-profile.jpg
   website: https://mcao516.github.io/
@@ -754,6 +754,14 @@
     nlp, unsupervised learning, generative models, transfer learning, transformer
     model improvements, abstractive question answering
   supervised_by: Jackie Chi Kit Cheung
+  scholar: null
+  level: msc
+
+- name: Julia Kaltenborn
+  image: jkaltenborn.jpg
+  website: https://liellnima.github.io
+  description: Machine Learning for Climate Science
+  supervised_by: David Rolnick
   scholar: null
   level: msc
 
