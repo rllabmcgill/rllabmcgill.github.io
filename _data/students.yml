@@ -772,6 +772,14 @@
   supervised_by: Reihaney Rabbany, Doina Precup
   scholar: null
   level: msc
+  
+- name: Jingyi He
+  image: default.jpg
+  website: https://kylie-box.github.io/
+  description: NLP, Text Summarization
+  supervised_by: Jackie Chi Kit Cheung
+  scholar: null
+  level: msc
 
 - name: "Lucas Pag\xE9-Caccia"
   image: default.jpg
