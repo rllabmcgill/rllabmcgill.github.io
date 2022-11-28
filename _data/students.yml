@@ -456,8 +456,8 @@
 
 - name: Safa Alver
   image: profile-1-509x676.jpg
-  website: null
-  description: Reinforcement Learning, Meta Learning
+  website: https://mila.quebec/en/person/safa-alver/
+  description: Lifelong Reinforcement Learning, Model-Based Reinforcement Learning
   supervised_by: Doina Precup
   scholar: null
   level: phd
