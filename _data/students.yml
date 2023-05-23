@@ -889,10 +889,10 @@
 - name: Shishir Sharma
   image: pp-1-1-509x640.jpeg
   website: https://shishir13sharma.github.io/
-  description: Reinforcement Learning
+  description: Reinforcement Learning, Planning, Multi-agent systems
   supervised_by: Doina Precup
   scholar: null
-  level: msc
+  level: phd
 
 - name: Srinivas Venkattaramanujam
   image: no-picture.jpg
