@@ -273,6 +273,15 @@
   scholar: null
   level: phd
 
+- name: Jesse Farebrother
+  image: jfarebro.png
+  website: https://brosa.ca
+  description:
+    Reinforcement Learning, Temporal Abstractions, Representation Learning, Deep Learning
+  supervised_by: Marc G. Bellemare, Doina Precup
+  scholar: https://scholar.google.ca/citations?user=cA12XHcAAAAJ&hl=en
+  level: phd
+
 - name: Joey Bose
   image: joey_headshot_mila-509x676.jpg
   website: https://joeybose.github.io/Research/
