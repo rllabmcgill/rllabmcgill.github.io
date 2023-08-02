@@ -159,7 +159,7 @@
   scholar: null
   level: phd
 
-- name: Del Verme Manuel
+- name: Manuel Del Verme
   image: default.jpg
   website: null
   description: TBD
@@ -169,7 +169,7 @@
 
 - name: Devendra Singh Sachan
   image: no-picture.jpg
-  website: www.dsachan.com
+  website: https://www.dsachan.com/
   description: Natural Language Processing; Machine Learning
   supervised_by: Joelle Pineau, William Hamilton
   scholar: null
