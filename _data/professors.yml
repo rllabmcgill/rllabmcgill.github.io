@@ -91,7 +91,7 @@
 
 - name: Timothy J O'Donnell
   image: tjdonnell.jpg
-  website: http://people.linguistics.mcgill.ca/~timothy.odonnell/
+  website: https://todonnell.github.io/
   description: Natural Language Processing, Linguistics, Cognitive Science
   scholar:
   level: affiliate
