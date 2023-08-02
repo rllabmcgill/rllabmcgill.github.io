@@ -1,18 +1,24 @@
 - name: Di Wu
   image: di_wu.jpg
-  website: http://www.darcywudi.com/tech
+  website: https://sites.google.com/view/di-wu/home?authuser=0&pli=1
   description: Reinforcement Learning, Deep Learning, Transfer Learning
   supervised_by: Doina Precup
+  status: Staff Research Scientist, Samsung AI Centern Montreal
   scholar: null
-  level: postdoc
+  level: alumni
+  grad_degree: postdoc
+  grad_year: 2019
 
 - name: Samira Ebrahimi Kahou
   image: samira_small.jpg
   website: https://saebrahimi.github.io
   description: Deep learning, Multimodal learning, Reasoning, RL, Metalearning
   supervised_by: null
+  status: Associate Professor at ETS
   scholar: null
-  level: postdoc
+  level: alumni
+  grad_degree: postdoc
+  grad_year: 2020
 
 - name: Susan Amin
   image: IMG-13021-509x676.jpg
@@ -27,8 +33,12 @@
   website: http://vincent.francois-l.be
   description: null
   supervised_by: Joelle Pineau, Doina Precup
+  status: Assistant Professor at the VU Amsterdam
   scholar: null
-  level: postdoc
+  level: alumni
+  grad_degree: postdoc
+  grad_year: 2020
+
 
 - name: Koustuv Sinha
   image: ksinha.jpg
@@ -37,8 +47,11 @@
     Natural Language Understanding, Systematicity & Logic in NLU, Dialog
     Systems
   supervised_by: Joelle Pineau
+  status: Research Scientist at Meta NY
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2022
 
 - name: Prasanna Parthasarathi
   image: prasanna.png
@@ -117,7 +130,10 @@
     inference
   supervised_by: Doina Precup, Devon Hjelm
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2023
+  status: Research Scientist at Apple MLR
 
 - name: Charles C Onu
   image: CharlesOnu-1-509x501.jpg
@@ -155,7 +171,7 @@
   image: no-picture.jpg
   website: www.dsachan.com
   description: Natural Language Processing; Machine Learning
-  supervised_by: William Hamilton
+  supervised_by: Joelle Pineau, William Hamilton
   scholar: null
   level: phd
 
@@ -311,6 +327,7 @@
   level: alumni
   grad_degree: PhD
   grad_year: 2021
+  status: Research Scientist at Ubisoft
 
 - name: Khimya Khetarpal
   image: khimya.png
@@ -320,7 +337,10 @@
     Continual RL, Cogsci, Robotics
   supervised_by: Doina Precup
   scholar: https://scholar.google.ca/citations?hl=en&user=VLOUhF0AAAAJ&view_op=list_works&sortby=pubdate
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2022
+  status: Research Scientist at DeepMind
 
 - name: Kushal Arora
   image: prof_pic-509x676.jpg
@@ -338,7 +358,11 @@
   description: Analysis of Boolean functions, Computational Complexity, Combinatorics
   supervised_by: Hamed Hatami
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2022
+  status: Postdoc at The Hebrew Institue of Jerusalem
+
 
 - name: Malik H. Altakrori
   image: download_002.png
@@ -364,7 +388,10 @@
     inverse reinforcement learning
   supervised_by: Joelle Pineau
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2020
+  status: Software Engineer at Woven Planet
 
 - name: Maxime Wabartha
   image: zoom_profile_picture_high_res_rt_jpg-e1530218978293-509x676.png
@@ -382,7 +409,10 @@
     Learning, Differential Privacy, Exploration-Exploitation Trade-Off
   supervised_by: Doina Precup
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2022
+  status: Senior Machine Learning Scientist
 
 - name: Melissa Mozifian
   image: Mel_compress-1.jpg
@@ -400,7 +430,9 @@
   description: Reinforcement Learning, Machine Learning, Optimization, Revenue Management
   supervised_by: Doina Precup, Gilles Savard
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2019
 
 - name: Neil Girdhar
   image: mat-and-mer-509x676.jpg
@@ -417,7 +449,7 @@
   website: http://cs.mcgill.ca/~nangel3
   description: question answering, language understanding, generative systems
   supervised_by: Christopher Pal, Joelle Pineau
-  scholar: null
+  scholar: Research Scientist at ServiceNow research
   level: alumni
   grad_degree: MSc
   grad_year: 2018
@@ -612,7 +644,10 @@
   description: Reinforcement Learning, NLP
   supervised_by: Doina Precup
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
+  status: PhD student at University of Oxford
 
 - name: Andrei Mircea Romascanu
   image: default.jpg
@@ -630,7 +665,10 @@
     generalization, transfer
   supervised_by: Joelle Pineau, Blake Richards
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
+  status: PhD student at New York University CILVR Lab 
 
 - name: Ariella Smofsky
   image: IMG_8415-1-509x676.jpg
@@ -648,7 +686,10 @@
   description: Machine learning, deep learning, transfer learning, generative models
   supervised_by: Doina Precup, Tal Arbel
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: Data Scientist at Acuity Brands
 
 - name: Cesare Spinoso-Di Piano
   image: cspino.png
@@ -664,7 +705,10 @@
   description: network science, graph representation learning, disease modelling
   supervised_by: Reihaneh Rabbany
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
+  status: Software Developer at Amazon Web Services
 
 - name: Chen-Yang Su
   image: Webp.jpg
@@ -674,7 +718,7 @@
     Statistical Genetics, Machine Learning Applications to Healthcare
   supervised_by: Joelle Pineau,  Brent Richards
   scholar: null
-  level: msc
+  level: phd
 
 - name: "Cl\xE9ment Jumel"
   image: default.jpg
@@ -692,7 +736,10 @@
     reinforcement learning, applications to healthcare and finance
   supervised_by: Joelle Pineau, Audrey Durand
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: Research Scientist at Microsoft
 
 - name: Dora Jambor
   image: no-picture.jpg
@@ -712,7 +759,9 @@
     neural knowledge graphs, language transformers, graph neural networks
   supervised_by: William Hamilton
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
 
 - name: Gabriela Moisescu-Pareja
   image: Screen-Shot-2020-10-01-at-4.jpg
@@ -738,7 +787,9 @@
   description: natural languag reasoning, knowledge graph representation
   supervised_by: Jackie Chi Kit Cheung, William Hamilton
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
 
 - name: Jin Dong
   image: IMG_20180915_143654-509x676.jpeg
@@ -746,7 +797,10 @@
   description: NLP, natural language reasoning, graph networks
   supervised_by: William Hamilton
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: Software Engineer at Amazon Web Services
 
 - name: Joshua Holla
   image: Josh-509x676.jpg
@@ -754,7 +808,10 @@
   description: Reinforcement Learning, Deep Learning, Transfer Learning
   supervised_by: Doina Precup, David Meger
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2022
+  status: Software Engineer at Google
 
 - name: Jules Gagnon-Marchand
   image: 0.jpg
@@ -796,7 +853,7 @@
   description: Deep Generative Models
   supervised_by: Joelle Pineau
   scholar: null
-  level: msc
+  level: phd
 
 - name: Martin Pömsl
   image: mpoemsl.png
@@ -812,7 +869,10 @@
   description: automatic summarization, NLP
   supervised_by: Jackie Chi Kit Cheung, Annie Louis
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: PhD at University of Edinburgh
 
 - name: Mehran Shakerinava
   image: Mehran-Profile-Pic-509x623.jpg
@@ -830,7 +890,9 @@
     transfer learning, hierarchical learning, Model Ensembles
   supervised_by: Doina Precup
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
 
 - name: Nadeem Ward
   image: IMG_5698-2-509x676.jpg
@@ -838,7 +900,10 @@
   description: Reinforcement learning, learning representations, optimization
   supervised_by: Doina Precup
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
+  status: Software Engineer at Bloomberg
 
 - name: Nicholas Meade
   image: headshot-509x676.jpg
@@ -846,7 +911,7 @@
   description: Natural Language Processing
   supervised_by: Siva Reddy
   scholar: null
-  level: msc
+  level: phd
 
 - name: "Nicolas Gagn\xE9"
   image: default.jpg
@@ -866,6 +931,10 @@
   supervised_by: Doina Precup
   scholar: null
   level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: Research Engineer at Common Sense Machines
 
 - name: Rosie Zhao
   image: default.jpg
@@ -873,8 +942,11 @@
   description: null
   supervised_by: Prakash Panangaden
   scholar: null
-  level: msc
-
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2022
+  status: PhD in Computer Science at Harvard University
+ 
 - name: "S\xE9kou-Oumar Kaba"
   image: image_rec-509x676-1-509x676.jpg
   website: null
@@ -883,7 +955,7 @@
     quantum mechanics, dynamical systems
   supervised_by: Siamak Ravanbakhsh
   scholar: null
-  level: msc
+  level: phd
 
 - name: Shenyang(Andy) Huang
   image: default.jpg
@@ -893,7 +965,7 @@
     Learning / Lifelong Learning, Neural Architecture Search / AutoML, Deep Learning
   supervised_by: Reihaneh Rabbany, Guillaume Rabusseau
   scholar: null
-  level: msc
+  level: phd
 
 - name: Shishir Sharma
   image: pp-1-1-509x640.jpeg
@@ -909,7 +981,9 @@
   description: Reinforcement Learning
   supervised_by: Doina Precup
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2021
 
 - name: Tyler Kastner
   image: default.jpg
@@ -917,7 +991,10 @@
   description: null
   supervised_by: Prakash Panangaden
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: PhD student at the University of Toronto
 
 - name: Vaibhav Adlakha
   image: IMG_5983-509x676.jpg
@@ -925,7 +1002,7 @@
   description: Natural Language Processing, Deep Learning
   supervised_by: Siva Reddy
   scholar: null
-  level: msc
+  level: phd
 
 - name: Vishal Jain
   image: profile-509x676_005.jpg
@@ -933,7 +1010,10 @@
   description: Deep Reinforcement Learning, NLP
   supervised_by: Doina Precup, Marc G Bellemare
   scholar: null
-  level: msc
+  level: alumni
+  grad_degree: MSc
+  grad_year: 2020
+  status: Staff Data Scientist at Ushur
 
 - name: Amirhossein Kazemnejad
   image: amirhossein_kazemnejad.jpg
@@ -949,7 +1029,7 @@
   description: deep learning, generative model, reinforcement leanring
   supervised_by: Joelle Pineau, Shirin A. Enger
   scholar: null
-  level: msc
+  level: phd
 
 - name: Ali Emami
   image: aliemami.webp
@@ -1296,8 +1376,8 @@
 
 - name: Pablo Samuel Castro
   image: null
-  website: http://www.cs.mcgill.ca/~pcastr/
-  status: Software Engineer at Google Montreal
+  website: https://psc-g.github.io/
+  status: "Se\xf1or Swesearcher at Google Montreal"
   scholar: null
   level: alumni
   grad_degree: PhD
