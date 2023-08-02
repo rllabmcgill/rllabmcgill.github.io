@@ -181,7 +181,10 @@
   description: Deep Learning, RL
   supervised_by: Joelle Pineau, Doina Precup
   scholar: null
-  level: phd
+  level: alumni
+  grad_degree: PhD
+  grad_year: 2022
+  status: Senior ML Scientist at Recursion
 
 - name: Eric Crawford
   image: default.jpg
